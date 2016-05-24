@@ -1,4 +1,4 @@
-# Unit 2: Advanced JavaScript, Using APIs, Parsing JSON, and Debugging
+# Unit 2: Advanced JavaScript using APIs and frameworks
 
 1. Package / Dependency Management with npm
  - Why we use it
