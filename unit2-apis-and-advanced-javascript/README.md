@@ -25,9 +25,14 @@
  - Redux
  - d3.js
  - *Learning outcome*: Given a d3.js component (we could build it for them), design and implement a react.js app that has many d3 graphs whose state is managed by Redux
-5. Objects
+5. Objects / HashTables
  - Syntax for JS objects
  - Common uses for key-value mappings
  - HashTable C-style implementation (array of linked lists) and the performance implications
  - *Learning outcome*: Write a JavaScript function that takes an input an array and returns a new array with only the unique elements from the input. This should be O(n) time and preserve the order of the input array
  - *Learning outcome*: Create a vehicle lookup implementation that lets users lookup vehicles by name and display the different features of the vehicle on the page.
+6. Queues & Stacks
+ - Queues: First in, First out. Waiting in line, scheduling systems
+ - Stacks: First in, Last out. Stack of plates, books, browser back button, function call stack
+ - How to build either using linked list. How to build a fixed-sized Queue using an array (c-style)
+ - *Learning outcome*: Understand which real-life situations map to which DS; Given a DS what are the operations it supports? Given some code, what is the state of the DS after some push/pop operations?
