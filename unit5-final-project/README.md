@@ -14,4 +14,4 @@
  - Binary, signed and unsigned integers, two's complement, floats
  - Compilers and Assembly
  - Threading, mutexes, event/run loops
- - 
+
