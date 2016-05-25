@@ -6,7 +6,7 @@
  - Client side has sufficiently complicated user experience; not necessarily a pure single-page app, but has numerous async interactions with the server, as well as dynamically updating content without a page refresh
  - Example projects: Twitter clone, Yelp clone, Google Maps directions service, etc.
  - IDEA: Bring in volunteer designers and product managers to help students build out their projects, letting them focus on the software
- - **Learning outcome**: Professional feeling, significanlty complicated, dynamic website with server side data
+ - **Learning outcome**: Professional feeling, significantly complicated, dynamic website with server side data
 2. Agile processes and methodology
  - Daily standups
  - Weekly sprints, sprint planning and sprint retrospectives
