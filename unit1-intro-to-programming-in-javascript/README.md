@@ -13,6 +13,7 @@
  - Branching and merging
  - GitHub pull request UX, how to converse on a PR
  - *Learning outcome*: Put simple personal site on GitHub, push to GitHub pages using GitBot.co
+ - *Learning outcome*: Can talk shop about PRs, commits, branches, and sound informed in an interview setting
 3. Programming basics in Javascript
  - Variables, control structures, loops, conditionals, functions
  - jQuery DOM manipulation
