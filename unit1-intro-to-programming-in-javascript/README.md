@@ -18,6 +18,8 @@
  - Variables, control structures, loops, conditionals, functions
  - jQuery DOM manipulation
  - Creating interactive web pages using JavaScript
+ - Strings: concat, substrings, iterating, searching, indexing
+ - Integers: basic math, modulo, parsing strings to ints
  - **Learning outcome**: Create a tic-tac-toe implementation that allows two players to play the game on a board by clicking on elements with correct win and lose conditions as well as restart buttons and local state keeping track of wins/losses
 4. Lists vs Arrays
  - Big O notation, software performance analysis and optimization
