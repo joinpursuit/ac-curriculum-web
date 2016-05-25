@@ -17,7 +17,7 @@
  - Jasmine (or better?) framework for executing unit tests
  - Dependency injection and mocks, concept and frameworks
  - Selenium (or better?) framework for executing full stack browser tests
- - [TestPyramid](http://martinfowler.com/bliki/TestPyramid.html)
+ - [TestPyramid](http://martinfowler.com/bliki/TestPyramid.html): Knowing it and understanding why
  - Continuous integration (and delivery) theory and common systems (Jenkins, TeamCity, TravisCI, CircleCI, etc.)
  - *Learning outcome*: Given some code, extract its external dependencies via DI and implement some unit tests with mocks
  - *Learning outcome*: Can talk shop about CI, understand and explain the value of adding CI to a release workflow, can argue convincingly for the inclusion of tests and CI into the development process
@@ -31,4 +31,4 @@
  - Whiteboard software design
  - *Learning outcome*: Be able to pass mock interviews with volunteer industry professionals focused on whiteboard coding and DS&A problems
  - *Learning outcome*: Able to complete majority of Cracking the Coding Interview practice problems
- 
+
