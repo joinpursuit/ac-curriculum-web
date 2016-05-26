@@ -36,16 +36,16 @@
   - Interacting with 2D matrices: indexing, searching, building
   - Scanning 2D matrices in different orders
   - Initializing the inner loop using values from the outer loop
-  - **Learning outcome**: Return the unique elements of an input array in O(n^2^) time
+  - **Learning outcome**: Return the unique elements of an input array in O(n<sup>2</sup>) time
   - **Learning outcome**: Find the difference between the diagonals of a square matrix in O(n) time
 - Big O notation, software performance analysis and optimization: 2 days
-  - Understand O(1), O(n), O(n^2^), and how to combine by taking only the largest
+  - Understand O(1), O(n), O(n<sup>2</sup>), and how to combine by taking only the largest
   - Learn how to analyze functions for their runtime complexity, including calling other functions
   - Write programs to match runtime complexity and improve a given program's runtime complexity
   - Under the hood: List VS Arrays in non-JS context, performance characteristics of each
   - Linked List C-style implementation (structs with pointers) and the performance implications
   - Array C-style implementation (fixed size contiguous memory) and the performance implications
-  - **Learning outcome**: Analyze a moderately complicated program to identify its runtime complexity (only with O(1), O(n), O(n^2^))
+  - **Learning outcome**: Analyze a moderately complicated program to identify its runtime complexity (only with O(1), O(n), O(n<sup>2</sup>))
   - **Learning outcome**: Be able to identify the superior data structure in various situations, and be able to identify the performance of all operations on both datastructures (ex: which datastructure has contant time update of an index? Which has constant time insert at the front? Which to use when building up an unknown number of items from empty? etc.)
 
 
