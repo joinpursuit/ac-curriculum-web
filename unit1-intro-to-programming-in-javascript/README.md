@@ -1,33 +1,79 @@
 # Unit 1: Intro to programming in Javascript
 
-1. HTTP & HTML & CSS
- - What HTTP is, headers, content, envelope metaphor
- - Tags: head, body, style, script, link, a, div, p, h1+, img, span, etc.
- - Attributes: class, name
- - Common CSS Properties: margin, padding, position, color, font-size, bg-color, etc.
- - CSS selectors
- - External libraries and stylesheets (bootstrap)
- - **Learning outcome**: Build a simple personal site with multiple pages and non-trivial layout
-2. Git & GitHub
- - Command Line Git: clone, commit, pull, push
- - Branching and merging
- - GitHub pull request UX, how to converse on a PR
- - **Learning outcome**: Put simple personal site on GitHub, push to GitHub pages using GitBot.co
- - **Learning outcome**: Can talk shop about PRs, commits, branches, and sound informed in an interview setting
-3. Programming basics in Javascript
- - Variables, control structures, loops, conditionals, functions
- - jQuery DOM manipulation
- - Creating interactive web pages using JavaScript
- - Strings: concat, substrings, iterating, searching, indexing
- - Integers: basic math, modulo, parsing strings to ints
- - **Learning outcome**: Create a tic-tac-toe implementation that allows two players to play the game on a board by clicking on elements with correct win and lose conditions as well as restart buttons and local state keeping track of wins/losses
-4. Lists vs Arrays
- - Big O notation, software performance analysis and optimization
- - Linked List C-style implementation (structs with pointers) and the performance implications
- - Array C-style implementation (fixed size contiguous memory) and the performance implications
- - **Learning outcome**: Be able to identify the superior data structure in various situations, and be able to identify the performance of all operations on both datastructures (ex: which datastructure has contant time update of an index? Which has constant time insert at the front? Which to use when building up an unknown number of items from empty? Which to use when the content is sorted and you want to search to see if a specific item is present? etc.)
-5. Debugging using Chrome developer tools
- - HTML and CSS Inspector
- - Breakpoints and stepping through code
- - Parsing call stack and watched variables
- - **Learning outcome**: Given a broken JavaScript program in a js file, use the Chrome Developer tools to identify where the bug is, and how to fix it
+---
+
+### Week 1
+
+- Git & GitHub: 2 days
+  - Command Line Git: clone, commit, pull, push
+  - Branching and merging
+  - GitHub pull request UX, how to converse on a PR
+  - **Learning outcome**: Put simple personal site on GitHub, push to GitHub pages using GitBot.co
+  - **Learning outcome**: Can talk shop about PRs, commits, branches, and sound informed in an interview setting
+- HTTP & HTML & CSS: 3 days
+  - What HTTP is, headers, content, envelope metaphor
+  - Tags: head, body, style, script, link, a, div, p, h1+, img, span, etc.
+  - Attributes: class, name
+  - Common CSS Properties: margin, padding, position, color, font-size, bg-color, etc.
+  - CSS selectors
+  - External libraries and stylesheets (bootstrap)
+  - Chrome Developer Tools: Inspector, HTML and CSS live editing
+  - **Learning outcome**: Build a simple personal site with multiple pages and non-trivial layout
+  - **Learning outcome**: Able to use the Chrome developer tool to inspect and edit webpage style
+
+
+### Week 2
+
+- Basic programming concepts (Review from wkshp): 1 day
+  - What is a program, what is an algorithm?
+  - Variables, control structures, loops, conditionals
+  - Strings: concat, substrings, iterating, searching, indexing
+  - Integers: basic math, modulo, parsing strings to ints
+  - Arrays: common methods, properties
+  - Deeper dive into functions: anonymous inline definitions
+  - **Learning outcome**: Be able to confidently answer all wkshp assessment questions (ex: find second largest element in an input array)
+- Nested Loops and 2D Arrays: 2 days
+  - Interacting with 2D matrices: indexing, searching, building
+  - Scanning 2D matrices in different orders
+  - Initializing the inner loop using values from the outer loop
+  - **Learning outcome**: Return the unique elements of an input array in O(n^2^) time
+  - **Learning outcome**: Find the difference between the diagonals of a square matrix in O(n) time
+- Big O notation, software performance analysis and optimization: 2 days
+  - Understand O(1), O(n), O(n^2^), and how to combine by taking only the largest
+  - Learn how to analyze functions for their runtime complexity, including calling other functions
+  - Write programs to match runtime complexity and improve a given program's runtime complexity
+  - Under the hood: List VS Arrays in non-JS context, performance characteristics of each
+  - Linked List C-style implementation (structs with pointers) and the performance implications
+  - Array C-style implementation (fixed size contiguous memory) and the performance implications
+  - **Learning outcome**: Analyze a moderately complicated program to identify its runtime complexity (only with O(1), O(n), O(n^2^))
+  - **Learning outcome**: Be able to identify the superior data structure in various situations, and be able to identify the performance of all operations on both datastructures (ex: which datastructure has contant time update of an index? Which has constant time insert at the front? Which to use when building up an unknown number of items from empty? etc.)
+
+
+### Week 3
+
+- Debugging using Chrome developer tools: 1 day
+  - Breakpoints and stepping through code
+  - Parsing call stack and watched variables
+  - **Learning outcome**: Given a broken JavaScript program in a js file, use the Chrome Developer tools to identify where the bug is, and how to fix it
+- jQuery: 4 days
+  - Using CSS Selectors to select jQuery DOM elements
+  - Manipulating jQuery DOM elements with `.text()`, `.hide()`, `.show()`, `.attr()`, `.css()`
+  - Creating new DOM elements with `.append()` and `.prepend()`
+  - Reading and validating form content with `.val()`
+  - Interacting with sets of jQuery DOM elements with `.each()`
+  - **Learning outcome**: Create a web page with multiple buttons with independent click event listeners
+  - **Learning outcome**: Create a web page with a form that validates the input and has different behavior for valid and invalid input.
+  - **Learning outcome**: Single webpage project ideas: Madlibs, Hangman, Math Quiz, Choose your own adventure game
+
+
+### Week 4
+
+- Agile process for building software: 2 days
+  - Project pre-broken up into many small deliverable iterations
+  - Pair programming, code reviews, pull requests
+  - Sprint planning, sprint retrospective, daily standups, story point sizing
+  - **Learning outcome**: Create a tic-tac-toe implementation that allows two players to play the game on a board by clicking on elements with correct win and lose conditions as well as restart buttons and local state keeping track of wins/losses
+- Review: 2 days
+- Final Assessment: .5 days
+- Project presentations: .5 days
+
