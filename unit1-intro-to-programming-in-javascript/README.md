@@ -16,6 +16,7 @@
   - Attributes: class, name
   - Common CSS Properties: margin, padding, position, color, font-size, bg-color, etc.
   - CSS selectors
+  - CSS Layouts crash course: display flex, flex-direction, align-items, justify-content, etc
   - External libraries and stylesheets (bootstrap)
   - Chrome Developer Tools: Inspector, HTML and CSS live editing
   - **Learning outcome**: Build a simple personal site with multiple pages and non-trivial layout
