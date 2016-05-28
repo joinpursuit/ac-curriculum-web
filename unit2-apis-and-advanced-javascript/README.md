@@ -20,7 +20,7 @@
  - **Learning outcome**: Take the tic-tac-toe implementation from the previous unit and refactor into smaller modules in multiple files. The new modules should be self contained, reusable and extensible.
  - **Learning outcome**: Working with a partner (or partners), come up with a Single webpage project idea (or use one from last unit: (Madlibs, Hangman, Math Quiz, Choose your own adventure game)). Plan out project into npm-style modules, owners, and deliverables (ie: for tic-tac-toe, Person A is responsible to writing the modules and listen for user input, Person B builds out the turn manager in the game, and so on). Work together using GitHub to develop and deploy your project. Obviously, you use gulp to build your js files for use on the frontend.
 
-# Week 2
+### Week 2
 
 - Scope: .5 day
  - Hoisting 
