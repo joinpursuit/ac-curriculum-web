@@ -62,6 +62,11 @@
   - Creating new DOM elements with `.append()` and `.prepend()`
   - Reading and validating form content with `.val()`
   - Interacting with sets of jQuery DOM elements with `.each()`
+  - Browser Events
+    - Event handlers and the concept of callbacks (+ brief intro to asynchronous nature of javascript)
+    - Event propagation: bubbling vs capture.
+    - jQuery event handling methods: `.click()` vs `.on()`
+    - Using event propagation to efficiently bind to dynamic elements ie: `.on('click', '.child-selector', cb)`
   - **Learning outcome**: Create a web page with multiple buttons with independent click event listeners
   - **Learning outcome**: Create a web page with a form that validates the input and has different behavior for valid and invalid input.
   - **Learning outcome**: Single webpage project ideas: Madlibs, Hangman, Math Quiz, Choose your own adventure game
