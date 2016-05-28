@@ -1,12 +1,26 @@
 # Unit 2: Advanced JavaScript using APIs and frameworks
 
-1. Package / Dependency Management with npm
+### Week 1
+
+- Package / Dependency Management with NPM: 1 day
  - Why we use it
  - How to find packages online and read their documentation
  - How to make your own packages
- - How to build large, multifile JavaScript apps
  - **Learning outcome**: Pull in a never-before-seen npm package and consume it
  - **Learning outcome**: Create a new npm package and publish it to npm. Pull a peer's new module and consume it
+- Building frontend javascript with Gulp: 2 days
+ - What is Gulp?
+ - How does Gulp transform the way we write frontend javascript? What does the file structure look like?
+ - Set up your first gulpfile
+ - How are tasks added to gulp? How are tasks composed with gulp?
+ - **Learning outcome**: Create a new project folder set up with Gulp and a gulpfile.
+ - **Learning outcome**: Add tasks to gulpfile such as: browserify, uglify, live-reload, babel (optional)
+- Multiline, Multifile JavaScript apps: 2 days
+ - How to leverage multiple packages (either from NPM or self created) to write maintainable code
+ - **Learning outcome**: Take the tic-tac-toe implementation from the previous unit and refactor into smaller modules in multiple files. The new modules should be self contained, reusable and extensible.
+ - **Learning outcome**: Working with a partner (or partners), come up with a Single webpage project idea (or use one from last unit: (Madlibs, Hangman, Math Quiz, Choose your own adventure game)). Plan out project into npm-style modules, owners, and deliverables (ie: for tic-tac-toe, Person A is responsible to writing the modules and listen for user input, Person B builds out the turn manager in the game, and so on). Work together using GitHub to develop and deploy your project. Obviously, you use gulp to build your js files for use on the frontend.
+
+
 2. Advanced Javascript
  - Hoisting
  - What scope is, the true power of the `var` keyword, what closures are and how/when/why to create them
