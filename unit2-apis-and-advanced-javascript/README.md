@@ -77,14 +77,20 @@ for( i = 0; i <= 10; ++i ) {
   - **Learning outcome**: Given a class called Square and two instances of this class, s and t, how would you define `calcArea()` and `calcPermiter()` methods such that _they can be called_ on the two instantiated instances, s and t?
   - **Learning outomce**: How would you reimplement jQuery from scratch using objects? (ie: `$('..')` gets us an object with methods such as `.css()`. How would you define this c;ass such that it doesn't require a `new` keyword *but still* consoles 'jQuery' when `console.log( $('...') instanceof jQuery )`
   - **Learning outcome**: How would you extend you jQuery class such that it supports the creation of "plugins" (ie: a new method called `.fooPlugin()` that works seamlessly on all current and future instances of your jQuery obejct) _without touching your_ original jQuery class implementation source code
+ 
+- APIs via AJAX and JSON: 2 days
+  - What is AJAX?
+  - jQuery's AJAX methods (ajax, get, post) & under-the-hood JavaScript's pure AJAX methods (only for educational reasons)
+  - Handling success and failures with callbacks
+  - Firebase (or some other competitor) configuration and consumption
+  - Promises: definition, usage, etc
+  - How to perform multiple, ordered asynch calls using promises (Firebase DB reads and/or writes can be used here as example)
+  - **Learning outcome**: Update the tic-tac-toe implementation from Unit 1 to store game state in Firebase, maintain leaderboards, have user accounts that users can log in to (insecurely) from any client
+  - **Learning outcome**: Consume an existing API (http://jsonplaceholder.typicode.com/ or http://pokeapi.co/) and allow for the client to control different queries on the API which display different results 
+
+### Week 3
 
 
-3. APIs via AJAX and JSON
- - jQuery's AJAX methods (ajax, get, post) & under-the-hood JavaScript's pure AJAX methods (only for educational reasons)
- - Success and failure handlers in callbacks
- - Firebase (or some other competitor) configuration and consumption
- - **Learning outcome**: Update the tic-tac-toe implementation from Unit 1 to store game state in Firebase, maintain leaderboards, have user accounts that users can log in to (insecurely) from any client
- - **Learning outcome**: Consume an existing API (http://jsonplaceholder.typicode.com/ or http://pokeapi.co/) and allow for the client to control different queries on the API which display different results
 4. Client Side UX Frameworks
  - React.js
  - Redux
