@@ -90,12 +90,25 @@ for( i = 0; i <= 10; ++i ) {
 
 ### Week 3
 
+ - Introduction to ReactJS: 2 days
+  - React lifecycle methods: `render()`, `componentDidMount()`, `componentWillRecieveProps()`, `componentDidUpdate()`, etc
+  - JSX and the benefits of writing HTML markup in javascript
+  - Adding a reactjs task to your `gulpfile`
+  - Light introduction to ES6 (most of ReactJS + ReactJS documentation is written in es6)
+   - classes, extend keyword, arrow functions, spread operator
+  - **Learning outcome**: Create simple To Do list using ReactJS
+  - **Learning outcome**: Understand the difference between state and prop
+ - Redux: 2 days
+  - Principles of redux: minimize state mutations, single source of truth, functional programming
+  - Actions, Reducers, Stores, etc
+  - **Learning outcome**: Build a Trello API based blog using ReactJS and Redux
+ - D3.js: 1 day
+  - selections
+  - entering / exiting (ie: how to create/remove nodes as needed from incoming data)
+  - transitions
+  - **Learning outcome**: Given a d3.js component (we could build it for them), design and implement a react.js app that has many d3 graphs whose state is managed by Redux
 
-4. Client Side UX Frameworks
- - React.js
- - Redux
- - d3.js
- - **Learning outcome**: Given a d3.js component (we could build it for them), design and implement a react.js app that has many d3 graphs whose state is managed by Redux
+
 5. Objects / HashTables
  - Syntax for JS objects
  - Common uses for key-value mappings
