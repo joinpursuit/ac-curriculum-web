@@ -29,48 +29,8 @@
 - Closures: .5 day
  - What are closures?
  - How can they be used and when are they useful?
- - **Learning outcome**: Solve tricky problems involving closures, examples:
-
-```js
-// write a function that allows a function to only be called N times
-function callNTimes( funcToCall, N ) {}
-function get10() { return 10; }
-var call3Times = callNTimes( call3Times, 3 );
-
-call3Times(); // 10
-call3Times(); // 10
-call3Times(); // 10
-call3Times(); // "Error! Already called 3 times";
-```
-
-```js
-// write a function that applies default values 
-function applyDefaults( funcToCall, argsArr ) {}
-function getN( N ) { return N; }
-var get10 = applyDefaults( getN, [10] );
-
-get10(); // 10
-get10( 11 ); // 11
-```
-
-```js
-// what happens when the user clicks on a button?
-var i = 0;
-var body = document.querySelector('body');
-for( i = 0; i <= 10; ++i ) {
- var button = document.createElement('button');
- button.innerHTML = "Click me!";
- button.addEventListener('click', function() {
-  alert(i);
- });
- body.appendChild(button);
-}
-
-// ...having identified the issue in the code block above, can you explain *why* the code behaves this way?
-// how would you fix this problem?
-```
-
- - Prototypes, the prototype chain, and inheritance: 2 days
+ - **Learning outcome**: Solve tricky problems involving closures, [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/closure-challenges.md)
+- Prototypes, the prototype chain, and inheritance: 2 days
   - constructor vs `Object.create()`
   - creating base classes and extending them via inheritance
   - **Learning outcome**: Be able to discuss OOP interview questions (how to design games like chess, model animal species, etc.) and understand how to discuss the talking points for non-JS OOP 
@@ -90,7 +50,7 @@ for( i = 0; i <= 10; ++i ) {
 
 ### Week 3
 
- - Introduction to ReactJS: 2 days
+- Introduction to ReactJS: 2 days
   - React lifecycle methods: `render()`, `componentDidMount()`, `componentWillRecieveProps()`, `componentDidUpdate()`, etc
   - JSX and the benefits of writing HTML markup in javascript
   - Adding a reactjs task to your `gulpfile`
@@ -98,7 +58,7 @@ for( i = 0; i <= 10; ++i ) {
    - classes, extend keyword, arrow functions, spread operator
   - **Learning outcome**: Create simple To Do list using ReactJS
   - **Learning outcome**: Understand the difference between state and prop
- - Redux: 2 days
+- Redux: 2 days
   - Principles of redux: minimize state mutations, single source of truth, functional programming
   - Actions, Reducers, Stores, etc
   - **Learning outcome**: Build a Trello API based blog using ReactJS and Redux
