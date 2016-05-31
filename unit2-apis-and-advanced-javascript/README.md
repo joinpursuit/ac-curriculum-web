@@ -18,7 +18,7 @@
 - Multiline, Multifile JavaScript apps: 2 days
   - How to leverage multiple packages (either from NPM or self created) to write maintainable code
   - **Learning outcome**: Take the tic-tac-toe implementation from the previous unit and refactor into smaller modules in multiple files. The new modules should be self contained, reusable and extensible.
-  - **Learning outcome**: Working with a partner (or partners), come up with a Single webpage project idea (or use one from last unit). Plan out project into npm-style modules, owners, and deliverables (ie: for tic-tac-toe, Person A is responsible for writing the modules and listen for user input, Person B builds out the turn manager in the game, and so on). Work together using GitHub to develop and deploy your project. Obviously, you use gulp to build your js files for use on the frontend.
+  - **Learning outcome**: Ability to, as a group, break apart a sizable webpage into smaller modules and distribute work among the team through individual modules. Collaboration is done through GitHub and Gulp is used for building js files.
 
 ### Week 2
 
