@@ -20,22 +20,21 @@
   - **Learning outcome**: Take the tic-tac-toe implementation from the previous unit and refactor into smaller modules in multiple files. The new modules should be self contained, reusable and extensible.
   - **Learning outcome**: Ability to, as a group, break apart a sizable webpage into smaller modules and distribute work among the team through individual modules. Collaboration is done through GitHub and Gulp is used for building js files.
 
+
 ### Week 2
 
-- Scope & Closures: 1 day
+- Scope & Closures: 2 day
   - Hoisting
   - Investigating the scope chain, the true power of the `var` keyword
-  - What are closures, how can they be used and when are they useful?
+  - What are closures and how/when/why to create them
   - **Learning outcome**: Be able to answer common "what does this code output" tricky JS questions involving hoisting, scope. Examples can be seen here: https://www.sitepoint.com/5-typical-javascript-interview-exercises/ 
   - **Learning outcome**: Solve tricky problems involving closures, [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/closure-challenges.md)
 - Prototypes, the prototype chain, and inheritance: 2 days
   - constructor vs `Object.create()`
   - creating base classes and extending them via inheritance
-  - **Learning outcome**: Be able to discuss OOP interview questions (how to design games like chess, model animal species, etc.) and understand how to discuss the talking points for non-JS OOP 
-  - **Learning outcome**: Given a class called Square and two instances of this class, s and t, how would you define `calcArea()` and `calcPermiter()` methods such that _they can be called_ on the two instantiated instances, s and t?
-  - **Learning outomce**: How would you reimplement jQuery from scratch using objects? (ie: `$('..')` gets us an object with methods such as `.css()`. How would you define this c;ass such that it doesn't require a `new` keyword *but still* consoles 'jQuery' when `console.log( $('...') instanceof jQuery )`
-  - **Learning outcome**: How would you extend you jQuery class such that it supports the creation of "plugins" (ie: a new method called `.fooPlugin()` that works seamlessly on all current and future instances of your jQuery obejct) _without touching your_ original jQuery class implementation source code
- 
+  - OOP, Prototypical OOP VS traditional class-based OOP, non-JS OOP (Interfaces, Abstract Classes)
+  - **Learning outcome**: Be able to discuss OOP interview questions (how to design games like chess, model animal species, etc.) and understand how to discuss the talking points for non-JS OOP
+  - **Learning outcome**: Design and implement classes in JS, create instances manually and dynamically, and utilize protypical inheritance to augment existing classes on the fly. [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/oo-challenges.md)
 - APIs via AJAX and JSON: 2 days
   - What is AJAX?
   - jQuery's AJAX methods (ajax, get, post) & under-the-hood JavaScript's pure AJAX methods (only for educational reasons)
@@ -45,6 +44,7 @@
   - How to perform multiple, ordered asynch calls using promises (Firebase DB reads and/or writes can be used here as example)
   - **Learning outcome**: Update the tic-tac-toe implementation from Unit 1 to store game state in Firebase, maintain leaderboards, have user accounts that users can log in to (insecurely) from any client
   - **Learning outcome**: Consume an existing API (http://jsonplaceholder.typicode.com/ or http://pokeapi.co/) and allow for the client to control different queries on the API which display different results 
+
 
 ### Week 3
 
