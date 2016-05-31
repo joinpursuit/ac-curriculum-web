@@ -3,33 +3,33 @@
 ### Week 1
 
 - Package / Dependency Management with NPM: 1 day
- - Why we use it
- - How to find packages online and read their documentation
- - How to make your own packages
- - **Learning outcome**: Pull in a never-before-seen npm package and consume it
- - **Learning outcome**: Create a new npm package and publish it to npm. Pull a peer's new module and consume it
+  - Why we use it
+  - How to find packages online and read their documentation
+  - How to make your own packages
+  - **Learning outcome**: Pull in a never-before-seen npm package and consume it
+  - **Learning outcome**: Create a new npm package and publish it to npm. Pull a peer's new module and consume it
 - Building frontend javascript with Gulp: 2 days
- - What is Gulp?
- - How does Gulp transform the way we write frontend javascript? What does the file structure look like?
- - Set up your first gulpfile
- - How are tasks added to gulp? How are tasks composed with gulp?
- - **Learning outcome**: Create a new project folder set up with Gulp and a gulpfile.
- - **Learning outcome**: Add tasks to gulpfile such as: browserify, uglify, live-reload, babel (optional)
+  - What is Gulp?
+  - How does Gulp transform the way we write frontend javascript? What does the file structure look like?
+  - Set up your first gulpfile
+  - How are tasks added to gulp? How are tasks composed with gulp?
+  - **Learning outcome**: Create a new project folder set up with Gulp and a gulpfile.
+  - **Learning outcome**: Add tasks to gulpfile such as: browserify, uglify, live-reload, babel (optional)
 - Multiline, Multifile JavaScript apps: 2 days
- - How to leverage multiple packages (either from NPM or self created) to write maintainable code
- - **Learning outcome**: Take the tic-tac-toe implementation from the previous unit and refactor into smaller modules in multiple files. The new modules should be self contained, reusable and extensible.
- - **Learning outcome**: Working with a partner (or partners), come up with a Single webpage project idea (or use one from last unit: (Madlibs, Hangman, Math Quiz, Choose your own adventure game)). Plan out project into npm-style modules, owners, and deliverables (ie: for tic-tac-toe, Person A is responsible to writing the modules and listen for user input, Person B builds out the turn manager in the game, and so on). Work together using GitHub to develop and deploy your project. Obviously, you use gulp to build your js files for use on the frontend.
+  - How to leverage multiple packages (either from NPM or self created) to write maintainable code
+  - **Learning outcome**: Take the tic-tac-toe implementation from the previous unit and refactor into smaller modules in multiple files. The new modules should be self contained, reusable and extensible.
+  - **Learning outcome**: Working with a partner (or partners), come up with a Single webpage project idea (or use one from last unit). Plan out project into npm-style modules, owners, and deliverables (ie: for tic-tac-toe, Person A is responsible for writing the modules and listen for user input, Person B builds out the turn manager in the game, and so on). Work together using GitHub to develop and deploy your project. Obviously, you use gulp to build your js files for use on the frontend.
 
 ### Week 2
 
 - Scope: .5 day
- - Hoisting 
- - Investigating the scope chain
- - **Learning outcome**: Be able to answer common "what does this code output" tricky JS questions involving hoisting, scope. Examples can be seen here: https://www.sitepoint.com/5-typical-javascript-interview-exercises/ 
+  - Hoisting 
+  - Investigating the scope chain
+  - **Learning outcome**: Be able to answer common "what does this code output" tricky JS questions involving hoisting, scope. Examples can be seen here: https://www.sitepoint.com/5-typical-javascript-interview-exercises/ 
 - Closures: .5 day
- - What are closures?
- - How can they be used and when are they useful?
- - **Learning outcome**: Solve tricky problems involving closures, [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/closure-challenges.md)
+  - What are closures?
+  - How can they be used and when are they useful?
+  - **Learning outcome**: Solve tricky problems involving closures, [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/closure-challenges.md)
 - Prototypes, the prototype chain, and inheritance: 2 days
   - constructor vs `Object.create()`
   - creating base classes and extending them via inheritance
@@ -55,7 +55,7 @@
   - JSX and the benefits of writing HTML markup in javascript
   - Adding a reactjs task to your `gulpfile`
   - Light introduction to ES6 (most of ReactJS + ReactJS documentation is written in es6)
-   - classes, extend keyword, arrow functions, spread operator
+    - classes, extend keyword, arrow functions, spread operator
   - **Learning outcome**: Create simple To Do list using ReactJS
   - **Learning outcome**: Understand the difference between state and prop
 - Redux: 2 days
@@ -68,6 +68,9 @@
   - transitions
   - **Learning outcome**: Given a d3.js component (we could build it for them), design and implement a react.js app that has many d3 graphs whose state is managed by Redux
 
+### Week 4
+
+### TODO: below is stuff to mix in
 
 5. Objects / HashTables
  - Syntax for JS objects
