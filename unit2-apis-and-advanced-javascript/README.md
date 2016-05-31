@@ -25,8 +25,7 @@
 - Scope & Closures: 1 day
   - Hoisting
   - Investigating the scope chain, the true power of the `var` keyword
-  - What are closures?
-  - How can they be used and when are they useful?
+  - What are closures, how can they be used and when are they useful?
   - **Learning outcome**: Be able to answer common "what does this code output" tricky JS questions involving hoisting, scope. Examples can be seen here: https://www.sitepoint.com/5-typical-javascript-interview-exercises/ 
   - **Learning outcome**: Solve tricky problems involving closures, [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/closure-challenges.md)
 - Prototypes, the prototype chain, and inheritance: 2 days
