@@ -60,7 +60,7 @@
   - React lifecycle methods: `render()`, `componentDidMount()`, `componentWillRecieveProps()`, `componentDidUpdate()`, etc
   - JSX and the benefits of writing HTML markup in javascript
   - Adding a reactjs task to your `gulpfile`
-  - Light introduction to ES6 (most of ReactJS + ReactJS documentation is written in es6) [_BENNO_: My concern is that there won't be enough time]
+  - _Light_ introduction to ES6 (most of ReactJS + ReactJS documentation is written in es6)
     - classes, extend keyword, arrow functions, spread operator, promises
   - **Learning outcome**: Create simple To Do list using ReactJS
   - **Learning outcome**: Understand the difference between state and prop
