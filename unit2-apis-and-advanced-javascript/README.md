@@ -27,6 +27,7 @@
   - HashTable C-style implementation (array of linked lists) and the performance implications
   - **Learning outcome**: Write a JavaScript function that takes an input an array and returns a new array with only the unique elements from the input. This should be O(n) time and preserve the order of the input array
   - **Learning outcome**: Create a vehicle lookup implementation that lets users lookup vehicles by name and display the different features of the vehicle on the page.
+  - **Learning outcome**: Able to implement hashtable in JS (we will provide an "array" object and a "linked list" object with the appropriate methods)
 
 
 ### Week 2
