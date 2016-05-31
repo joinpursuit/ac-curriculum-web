@@ -1,5 +1,19 @@
 # Unit 3: Server Side MVC Application Development using Node.js, Express, and PostgreSQL
 
+### Week 1
+
+### Week 2
+
+### Week 3
+
+### Week 4
+
+- Review: 2 days
+- Final Assessment: .5 days
+- Project presentations: .5 days
+
+### TODO: content to be merged into the week
+
 1. Express and MVC
  - Why MVC for server side development
  - Separation of concerns
