@@ -49,6 +49,7 @@
   - jQuery's AJAX methods (ajax, get, post) & under-the-hood JavaScript's pure AJAX methods (only for educational reasons)
   - Handling success and failures with callbacks
   - Firebase (or some other competitor) configuration and consumption
+  - Promises: definition, usage, etc
   - How to perform multiple, ordered asynch calls using promises (Firebase DB reads and/or writes can be used here as example)
   - **Learning outcome**: Update the tic-tac-toe implementation from Unit 1 to store game state in Firebase, maintain leaderboards, have user accounts that users can log in to (insecurely) from any client
   - **Learning outcome**: Consume an existing API (http://jsonplaceholder.typicode.com/ or http://pokeapi.co/) and allow for the client to control different queries on the API which display different results 
