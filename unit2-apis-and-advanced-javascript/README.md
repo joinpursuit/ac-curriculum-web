@@ -75,7 +75,7 @@
 
 ### Week 4
 
-- Major React Project using D3.js: 1 day
+- Major React Project using D3.js: 2 days
   - Data fetched via AJAX from an API provided by us
   - Controls on the page to select different views of the data
   - Page has multiple graphs that be controlled independently and a graph who's behavior is dependent on the state (content and selection) of other graphs on the page
