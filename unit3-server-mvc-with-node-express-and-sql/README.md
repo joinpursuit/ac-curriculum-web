@@ -48,4 +48,4 @@
  - **Learning outcome**: Given an implementation, understand which sort it is
  - **Learning outcome**: Know the runtime of every common sort algorithm
  - **Learning outcome**: Implement Quicksort recursively
- 
+

@@ -1,6 +1,5 @@
 # Unit 1: Intro to programming in Javascript
 
----
 
 ### Week 1
 
