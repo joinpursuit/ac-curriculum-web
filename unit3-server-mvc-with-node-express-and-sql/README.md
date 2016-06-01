@@ -2,6 +2,15 @@
 
 ### Week 1
 
+- Serverside MVC with Express: 3 days
+  - Why MVC for server side development
+  - Separation of concerns
+  - Routing, (simple) regular expressions
+  - Controllers
+  - Views using a templating engine and ViewModels (Mustache? Jade?)
+  - Middleware for session, error handling, 
+  - **Learning outcome**: Create a website with over 4 unique URL routes with both HTML and JSON responses, user state stored in sessions, and an interactive set of client pages using AJAX to hit at least one JSON endpoint
+
 ### Week 2
 
 ### Week 3
@@ -15,13 +24,7 @@
 ### TODO: content to be merged into the week
 
 1. Express and MVC
- - Why MVC for server side development
- - Separation of concerns
- - Routing, (simple) regular expressions
- - Controllers
- - Views using a templating engine and ViewModels (Mustache? Jade?)
- - Middleware for session, error handling, 
- - **Learning outcome**: Create a website with over 4 unique URL routes with both HTML and JSON responses, user state stored in sessions, and an interactive set of client pages using AJAX to hit at least one JSON endpoint
+ 
 2. Databases, SQL, and PostgreSQL
  - What a database is, what "relational" means in the context of databases
  - How to insert, update, delete, and query using SQL syntax
