@@ -6,7 +6,7 @@
   - Why MVC for server side development: Separation of concerns
   - Routing & (simple) regular expressions
   - Controllers
-  - Views using a templating engine and ViewModels (Mustache? Jade?)
+  - Views using a templating engine (Jade) and ViewModels
   - Middleware for session, error handling
   - **Learning outcome**: Given a small existing website, add new URLs, add content to existing URLs, create a new URL with a new controller that reuses an existing view
   - **Learning outcome**: Create a website with over 4 unique URL routes with both HTML and JSON responses, user state stored in sessions, and an interactive set of client pages using AJAX to hit at least one JSON endpoint
