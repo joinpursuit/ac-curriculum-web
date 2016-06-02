@@ -19,6 +19,7 @@
  - **Learning outcome**: Given some code, extract its external dependencies via DI and implement some unit tests with mocks
  - **Learning outcome**: Can talk shop about CI, understand and explain the value of adding CI to a release workflow, can argue convincingly for the inclusion of tests and CI into the development process
 
+
 ### Week 2
 
 - Pair programming: 1 day
@@ -33,37 +34,37 @@
   - Break down a project into components
   - Use tests to verify correctness, and text fixtures and test data to iterate quickly
   - Leverage the agile process
+  - Use some of the DS&A we have learned so far (autocomplete with a Trie, removing duplicates using HTs, anagram search for full-text-product search, etc.)
   - **Learning outcome**: Professional feeling, significantly complicated, dynamic website with server side data that simulates e-commerce
+
 
 ### Week 3
 
-
+- Readable Code, Debuggin, and Refactoring: 2 days
+  - Distinguish between "readable" and "unreadable" code
+  - Exercises in refactoring messy, disorganized, poorly written code
+  - Exercises in debugging and then refactoring broken code across the full stack
+  - Language surrounding "maintainable" code
+  - **Learning outcome**: TODO
+- Writing good APIs and consuming external APIs: 3 days
+  - Create server side application APIs that serve JSON
+  - The challenges associated with versioning
+  - Consume multiple external APIs (Twilio, Maps, MTA, etc.)
+  - **Learning outcome**: TODO
 
 ### Week 4
 
-- Review: 4 days
+- Data structures and algorithms practice: 2 days
+  - What is the best datastructure to use for situation S?
+  - What datastructure has performance P for operation O?
+  - What is the performance of operation O on datastructure D?
+  - Build an autocomplete system on the server and fetch results as the user types on the client (trees)
+  - Implement BFS and DFS (using a queue and recursion respectively)
+  - Whiteboard coding
+  - Whiteboard software design
+  - **Learning outcome**: Be able to pass mock interviews with volunteer industry professionals focused on whiteboard coding and DS&A problems
+  - **Learning outcome**: Able to complete majority of Cracking the Coding Interview practice problems
+- Review: 2 days
 - Final Assessment: .5 days
 - Project presentations: .5 days
-
-### Remaining stuff to be integrated
-
-1. Large solo/group project to build a full stack web application that includes:
- - A secure user login system
- - Dynamic page renders depending on user logged in, user state, input queries
- - Client side has sufficiently complicated user experience; not necessarily a pure single-page app, but has numerous async interactions with the server, as well as dynamically updating content without a page refresh
- - Example projects: Twitter clone, Yelp clone, Google Maps directions service, etc.
- - IDEA: Bring in volunteer designers and product managers to help students build out their projects, letting them focus on the software
-  - **Learning outcome**: Professional feeling, significantly complicated, dynamic website with server side data
-
-
-4. Data structures and algorithms practice
- - What is the best datastructure to use for situation S?
- - What datastructure has performance P for operation O?
- - What is the performance of operation O on datastructure D?
- - Build an autocomplete system on the server and fetch results as the user types on the client (trees)
- - Implement BFS and DFS (using a queue and recursion respectively)
- - Whiteboard coding
- - Whiteboard software design
- - **Learning outcome**: Be able to pass mock interviews with volunteer industry professionals focused on whiteboard coding and DS&A problems
- - **Learning outcome**: Able to complete majority of Cracking the Coding Interview practice problems
 
