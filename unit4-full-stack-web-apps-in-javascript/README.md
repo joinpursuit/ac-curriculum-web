@@ -1,5 +1,16 @@
 # Unit 4: Building Full Stack Web Applications
 
+### Week 1
+
+### Week 2
+
+### Week 3
+
+### Week 4
+
+
+### Remaining stuff to be integrated
+
 1. Large solo/group project to build a full stack web application that includes:
  - A secure user login system
  - Dynamic page renders depending on user logged in, user state, input queries
