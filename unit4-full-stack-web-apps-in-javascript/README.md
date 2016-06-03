@@ -40,17 +40,19 @@
 
 ### Week 3
 
-- Readable Code, Debuggin, and Refactoring: 2 days
+- Readable Code, Debugging, and Refactoring: 2 days
   - Distinguish between "readable" and "unreadable" code
   - Exercises in refactoring messy, disorganized, poorly written code
   - Exercises in debugging and then refactoring broken code across the full stack
   - Language surrounding "maintainable" code
-  - **Learning outcome**: TODO
+  - **Learning outcome**: Able to comment up a pull request professionally, identifying places for improvement, pointing out inconsistencies, and suggesting improvements
 - Writing good APIs and consuming external APIs: 3 days
   - Create server side application APIs that serve JSON
   - The challenges associated with versioning
   - Consume multiple external APIs (Twilio, Maps, MTA, etc.)
-  - **Learning outcome**: TODO
+  - Handling remote failures, high latency, inconsistent behavior, the "Circuit Breaker" design pattern
+  - **Learning outcome**: Given a set of actions for a client (web or mobile), write a clean and clear API. Given adjustments to those actions, write a backwards compatible update
+  - **Learning outcome**: Given a flakey remote API, write a client that handles failures and timeouts gracefully
 
 ### Week 4
 
