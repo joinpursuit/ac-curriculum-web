@@ -1,4 +1,4 @@
-# Unit 5: Final Project and How Software Actually Works
+# Unit 6: Final Project and How Software Actually Works
 
 1. Large group project to build a full stack web application that includes:
  - A secure user login system
