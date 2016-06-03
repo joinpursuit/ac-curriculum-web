@@ -76,6 +76,7 @@
   - Initializing the inner loop using values from the outer loop
   - **Learning outcome**: Return the unique elements of an input array in O(n<sup>2</sup>) time
   - **Learning outcome**: Find the difference between the diagonals of a square matrix in O(n) time
+  - **Learning outcome**: (Uses Agile process) Create a tic-tac-toe implementation that allows two players to play the game on a board by clicking on elements with correct win and lose conditions as well as restart buttons and local state keeping track of wins/losses
 
 ### Week 4
 
