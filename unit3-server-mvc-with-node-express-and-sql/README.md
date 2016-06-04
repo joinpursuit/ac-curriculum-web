@@ -50,7 +50,7 @@
 
 ### Week 4
 
-- Sorting: 2 days
+- Sorting (Divide and Conquer Algorithms): 2 days
   - Quicksort & Merge sort, Insertion Sort, Bubble Sort, Radix/Bucket sort
   - Runtime analysis
   - **Learning outcome**: Given an implementation, understand which sort it is
