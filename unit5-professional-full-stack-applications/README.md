@@ -1,13 +1,5 @@
 # Unit 5: Professional Full-Stack Web Applications
 
-## Big ideas (to be put into syllabus)
-
-- More practice building full stack web apps
-- Using significant external libraries
-- Iterative shipping
-- SQL Migrations
-- Responsive CSS Design
-
 
 ### Week 1
 
