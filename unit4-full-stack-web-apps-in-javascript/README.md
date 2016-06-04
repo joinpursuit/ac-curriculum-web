@@ -22,10 +22,8 @@
 
 ### Week 2
 
-- Pair programming: 1 day
-  - Understand and explain the purpose of pairing
-  - Apply simple pairing patterns like Driver/Navigator and ping-pong
-  - Verbally establish a productive pairing arrangement
+- Pair programming with automated testing: 1 day
+  - Alternate between one partner writing tests and the other partner getting them to pass
   - Give specific, actionable, and kind feedback to pairing partner
   - Shamelessly copied from [Turing.io](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown)
   - **Learning outcome**: Have a successful ping-pong session writing both tests and code that passes the tests
