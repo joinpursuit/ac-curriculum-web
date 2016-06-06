@@ -7,7 +7,7 @@ Lesson plan template | template, lesson plans
 * For example: ‘Learn how to use Github to collaborate with a team’
 
 ## Structure
-* 10:00 -10:40 - Challenge problem
+* 10:00 - 10:40 - Challenge problem
 * 10:40 - 10:45 Break
 * 10:45 - 11:30 Lecture part 1
 * 11:30 - 1:00 Exercise 1
@@ -22,7 +22,7 @@ Lesson plan template | template, lesson plans
 Add links for slides, live coding examples, helpful resources, etc.
 
 ##Intro - High level overview
-Discussion: What does the class currently know about the topic? Why do we care about this topic? 
+**Discussion**: What does the class currently know about the topic? Why do we care about this topic? 
 
 Give a high level overview of the topic
 - and
@@ -47,7 +47,8 @@ function(){
 Describe the exercise and link to any necessary github repos/documents/links etc.
 
 ##Another topic/more examples/etc.
-- expand this however you'd like
+- Continue the lecture
+- expand/change this however you'd like
 
 ## Exercise 2
 Describe the exercise and link to any necessary github repos/documents/links etc.
