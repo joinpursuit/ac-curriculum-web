@@ -7,6 +7,7 @@ Lesson plan template | template, lesson plans
 * For example: ‘Learn how to use Github to collaborate with a team’
 
 ## Structure
+* This is just an example structure, feel free to change
 * 10:00 - 10:40 - Challenge problem
 * 10:40 - 10:45 Break
 * 10:45 - 11:30 Lecture part 1
