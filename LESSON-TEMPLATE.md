@@ -1,6 +1,6 @@
 
 ---
-title: **Lesson plan template - edit/add/remove sections as you’d like
+title: Lesson plan template - edit/add/remove sections as you’d like
 length: 90 minutes
 tags: template, lesson plans
 ---
@@ -39,9 +39,10 @@ Go over an example workflow and code examples
 - incredible 
 - bulletpoints
 
-'' function(){
-''   console.log("Also include some code examples")
-'' }
+``` function(){
+     console.log("Also include some code examples")
+    }
+```
 ###Another topic/more examples/etc.
 - expand this however you'd like
 
