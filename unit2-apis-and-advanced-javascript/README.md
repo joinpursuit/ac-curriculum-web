@@ -38,14 +38,14 @@
   - OOP, Prototypical OOP VS traditional class-based OOP, non-JS OOP (Interfaces, Abstract Classes)
   - **Learning outcome**: Be able to discuss OOP interview questions (how to design games like chess, model animal species, etc.) and understand how to discuss the talking points for non-JS OOP
   - **Learning outcome**: Design and implement classes in JS, create instances manually and dynamically, and utilize protypical inheritance to augment existing classes on the fly. [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/oo-challenges.md)
-- Nested Loops and 2D Arrays: 2 days (carries over into next week)
+- Nested Loops and 2D Arrays: 1 days
   - Interacting with 2D matrices: indexing, searching, building
   - Scanning 2D matrices in different orders
   - Initializing the inner loop using values from the outer loop
   - **Learning outcome**: Return the unique elements of an input array in O(n<sup>2</sup>) time
   - **Learning outcome**: Find the difference between the diagonals of a square matrix in O(n) time
   - **Learning outcome**: (Uses Agile process) Create a tic-tac-toe implementation that allows two players to play the game on a board by clicking on elements with correct win and lose conditions as well as restart buttons and local state keeping track of wins/losses
-- APIs via AJAX and JSON: 2 days (carries into Week 3)
+- APIs via AJAX and JSON: 2 days
   - What is AJAX?
   - jQuery's AJAX methods (ajax, get, post) & under-the-hood JavaScript's pure AJAX methods (only for educational reasons)
   - Handling success and failures with callbacks
@@ -58,6 +58,8 @@
 
 ### Week 3
 
+- Promises: 1 day
+  - TODO @nmadd fill this out
 - Introduction to ReactJS: 2 days
   - React lifecycle methods: `render()`, `componentDidMount()`, `componentWillRecieveProps()`, `componentDidUpdate()`, etc
   - JSX and the benefits of writing HTML markup in javascript

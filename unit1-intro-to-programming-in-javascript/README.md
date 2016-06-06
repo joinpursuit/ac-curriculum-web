@@ -68,7 +68,7 @@
   - **Learning outcome**: Create a web page with multiple buttons with independent click event listeners
   - **Learning outcome**: Create a web page with a form that validates the input and has different behavior for valid and invalid input.
   - **Learning outcome**: Single webpage project ideas: Madlibs, Hangman, Math Quiz, Choose your own adventure game
-- Big O notation, software performance analysis and optimization: 2 days
+- Big O notation, software performance analysis and optimization: 2 days (carries over into next week)
   - Understand O(1), O(n), O(n<sup>2</sup>), and how to combine by taking only the largest
   - Learn how to analyze functions for their runtime complexity, including calling other functions
   - Write programs to match runtime complexity and improve a given program's runtime complexity

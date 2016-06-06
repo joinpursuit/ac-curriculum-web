@@ -23,7 +23,9 @@
 
 ### Week 2
 
-- Professional Full Stack Web Application: 5 Days
+- Socket.io: 1 Day
+  - TODO @nmadd
+- Professional Full Stack Web Application: 4 Days
   - Example project idea: CRM
   - Data stored in SQL or Mongo
   - Business and security logic in server-side MVC
@@ -31,6 +33,7 @@
     - Data changes trigger updates for different users
     - Integrations with various external APIs
     - Seeded data for testing
+    - Use Socket.io
     - Remote CI integration (Travis, Circle, or other)
   - Simple UX
   - **Learning outcome**: Practice building applications at all levels of the stack
