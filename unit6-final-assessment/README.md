@@ -40,10 +40,10 @@
 
 ### Week 4
 
-- Final project work: 3 days
-- Computer Science and Operating System Structures: 2 days
+- Computer Science and Operating System Structures: 3 days (but not full days)
   - Memory management, Stack, Heap, Code
   - Binary, signed and unsigned integers, two's complement, floats
   - Compilers and Assembly
   - Threading, mutexes, event/run loops
+- Final project work: 2 days (plus rest of time on CS fundamentals days)
 
