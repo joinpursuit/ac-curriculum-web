@@ -40,15 +40,12 @@
   - Arrays: common methods, properties
   - Deeper dive into functions: anonymous inline definitions
   - **Learning outcome**: Be able to confidently answer all wkshp assessment questions (ex: find second largest element in an input array)
-- Big O notation, software performance analysis and optimization: 2 days
-  - Understand O(1), O(n), O(n<sup>2</sup>), and how to combine by taking only the largest
-  - Learn how to analyze functions for their runtime complexity, including calling other functions
-  - Write programs to match runtime complexity and improve a given program's runtime complexity
-  - Under the hood: List VS Arrays in non-JS context, performance characteristics of each
-  - Linked List C-style implementation (structs with pointers) and the performance implications
-  - Array C-style implementation (fixed size contiguous memory) and the performance implications
-  - **Learning outcome**: Analyze a moderately complicated program to identify its runtime complexity (only with O(1), O(n), O(n<sup>2</sup>))
-  - **Learning outcome**: Be able to identify the superior data structure in various situations, and be able to identify the performance of all operations on both datastructures (ex: which datastructure has contant time update of an index? Which has constant time insert at the front? Which to use when building up an unknown number of items from empty? etc.)
+- Scope & Closures: 2 day
+  - Hoisting
+  - Investigating the scope chain, the true power of the `var` keyword
+  - What are closures and how/when/why to create them
+  - **Learning outcome**: Be able to answer common "what does this code output" tricky JS questions involving hoisting, scope. Examples can be seen here: https://www.sitepoint.com/5-typical-javascript-interview-exercises/ 
+  - **Learning outcome**: Solve tricky problems involving closures, [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/closure-challenges.md)
 - Debugging using Chrome developer tools: 1 day
   - Breakpoints and stepping through code
   - Parsing call stack and watched variables
@@ -71,13 +68,16 @@
   - **Learning outcome**: Create a web page with multiple buttons with independent click event listeners
   - **Learning outcome**: Create a web page with a form that validates the input and has different behavior for valid and invalid input.
   - **Learning outcome**: Single webpage project ideas: Madlibs, Hangman, Math Quiz, Choose your own adventure game
-- Nested Loops and 2D Arrays: 2 days (carries over into next week)
-  - Interacting with 2D matrices: indexing, searching, building
-  - Scanning 2D matrices in different orders
-  - Initializing the inner loop using values from the outer loop
-  - **Learning outcome**: Return the unique elements of an input array in O(n<sup>2</sup>) time
-  - **Learning outcome**: Find the difference between the diagonals of a square matrix in O(n) time
-  - **Learning outcome**: (Uses Agile process) Create a tic-tac-toe implementation that allows two players to play the game on a board by clicking on elements with correct win and lose conditions as well as restart buttons and local state keeping track of wins/losses
+- Big O notation, software performance analysis and optimization: 2 days
+  - Understand O(1), O(n), O(n<sup>2</sup>), and how to combine by taking only the largest
+  - Learn how to analyze functions for their runtime complexity, including calling other functions
+  - Write programs to match runtime complexity and improve a given program's runtime complexity
+  - Under the hood: List VS Arrays in non-JS context, performance characteristics of each
+  - Linked List C-style implementation (structs with pointers) and the performance implications
+  - Array C-style implementation (fixed size contiguous memory) and the performance implications
+  - **Learning outcome**: Analyze a moderately complicated program to identify its runtime complexity (only with O(1), O(n), O(n<sup>2</sup>))
+  - **Learning outcome**: Be able to identify the superior data structure in various situations, and be able to identify the performance of all operations on both datastructures (ex: which datastructure has contant time update of an index? Which has constant time insert at the front? Which to use when building up an unknown number of items from empty? etc.)
+
 
 ### Week 4
 
