@@ -4,7 +4,8 @@
 ### Week 1
 
 - Git & GitHub: 2 days
-  - Command Line Git: clone, commit, pull, push
+  - Basic Command Line navigation: `cd`, `ls`, `.`, `..`, `~`, `pwd`, `mkdir`, `touch`, `open`
+  - Command Line Git: `clone`, `commit`, `pull`, `push`
   - Branching and merging
   - GitHub pull request UX, how to converse on a PR
   - **Learning outcome**: Put simple personal site on GitHub, push to GitHub pages using GitBot.co
