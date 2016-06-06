@@ -1,9 +1,13 @@
-
+<!-- 
 ---
 title: Lesson plan template - edit/add/remove sections as you’d like
 length: 90 minutes
 tags: template, lesson plans
----
+--- -->
+
+Title | Length | Tags
+--- | --- | ---
+Lesson plan template - edit/add/remove sections as you’d like| 90 minutes | template, lesson plans
 
 ## Objectives
 * Outline what the students should take away from the lesson 
@@ -39,9 +43,10 @@ Go over an example workflow and code examples
 - incredible 
 - bulletpoints
 
-``` function(){
-     console.log("Also include some code examples")
-    }
+```javascript
+function(){
+    console.log("Also include some code examples")
+}
 ```
 ###Another topic/more examples/etc.
 - expand this however you'd like
@@ -54,5 +59,8 @@ Review and check progress
 * What was easy?
 * What was challenging?
 * What made sense? What didn’t make sense?
+
+## Further Reading
+* Add links to further reading
 
 
