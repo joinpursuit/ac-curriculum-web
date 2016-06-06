@@ -2,7 +2,11 @@
 
 ### Week 1
 
-- Agile processes and methodology: 2 days
+- Unit 3 Assessment review: 1 day
+  - Give assessment back to students
+  - Go over solutions to ever problem as a class
+  - Go through other examples of the most-failed problems
+- Revisit Agile processes and methodology: 1 day
   - Daily standups
   - Weekly sprints, sprint planning and sprint retrospectives
   - Stories, story points, and tickets

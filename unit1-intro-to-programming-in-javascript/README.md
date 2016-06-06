@@ -85,7 +85,7 @@
   - Project pre-broken up into many small deliverable iterations
   - Code reviews, pull requests, design reviews
   - Sprint planning, sprint retrospective, daily standups, story point sizing
-  - **Learning outcome**: (Uses 2D arrays) Create a tic-tac-toe implementation that allows two players to play the game on a board by clicking on elements with correct win and lose conditions as well as restart buttons and local state keeping track of wins/losses
+  - **Learning outcome**: *TODO:* Using the agile process and closures, build a reasonably sized project (what should it be?)
 - Review: 2 days
 - Final Assessment: .5 days
 - Project presentations: .5 days

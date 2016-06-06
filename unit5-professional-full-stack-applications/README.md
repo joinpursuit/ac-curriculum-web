@@ -3,12 +3,16 @@
 
 ### Week 1
 
+- Unit 4 Assessment review: 1 day
+  - Give assessment back to students
+  - Go over solutions to ever problem as a class
+  - Go through other examples of the most-failed problems
 - Responsive CSS Design: 1 Day
   - Building UIs that look good at all screen sizes
   - Designing a mobile-friendly UI
   - Using Chrome Developer Tools
   - **Learning outcome**: Able to implement a responsive web page given a set of wireframes
-- Professional Full Stack Web Application: 4 Days
+- Professional Full Stack Web Application: 3 Days
   - Example project idea: A social network (Twitter clone)
   - Data stored in SQL or Mongo
   - Business and security logic in server-side MVC
