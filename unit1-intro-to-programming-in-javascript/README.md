@@ -57,7 +57,7 @@
 
 ### Week 3
 
-- jQuery: 4 days
+- JavaScript and the DOM using jQuery: 4 days
   - Using CSS Selectors to select jQuery DOM elements
   - Manipulating jQuery DOM elements with `.text()`, `.hide()`, `.show()`, `.attr()`, `.css()`
   - Creating new DOM elements with `.append()` and `.prepend()`
