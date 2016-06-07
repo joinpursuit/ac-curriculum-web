@@ -49,6 +49,7 @@
 - Debugging using Chrome developer tools: 1 day
   - Breakpoints and stepping through code
   - Parsing call stack and watched variables
+  - Reading StackOverflow answers, coming up with good Google searches, identifying good/bad results
   - **Learning outcome**: Given a broken JavaScript program in a js file, use the Chrome Developer tools to identify where the bug is, and how to fix it
 
 
