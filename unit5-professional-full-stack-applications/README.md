@@ -55,6 +55,7 @@
   - Add new external API integrations (Email, Twilio, APNS, etc.)
   - Creating an API for other developers to leverage
   - Add testing for all new features, and ensure regression testing keeps previous features running
+  - Good opportunity for a Hackathon
   - **Learning outcome**: Experience joining someone else's existing project and adding features to it
   - **Learning outcome**: Experience with major code changes of a continuously integrated application
 - Data structures and algorithms practice: 2 days

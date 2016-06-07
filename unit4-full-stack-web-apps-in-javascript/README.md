@@ -37,6 +37,7 @@
   - Use tests to verify correctness, and text fixtures and test data to iterate quickly
   - Leverage the agile process
   - Use some of the DS&A we have learned so far (autocomplete with a Trie, removing duplicates using HTs, anagram search for full-text-product search, etc.)
+  - Good opportunity for a Hackathon
   - **Learning outcome**: Professional feeling, significantly complicated, dynamic website with server side data that simulates e-commerce
 
 

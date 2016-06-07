@@ -46,4 +46,5 @@
   - Compilers and Assembly
   - Threading, mutexes, event/run loops
 - Final project work: 2 days (plus rest of time on CS fundamentals days)
+  - Bring in design and product volunteers to help teams with non-technical pieces of the product development process
 
