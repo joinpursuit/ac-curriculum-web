@@ -1,3 +1,26 @@
+Title | Tags
+--- | ---
+Intro To Git | git
+
+## Objectives
+* Learn basic command line git
+* Get familiar with branching and merging
+
+## TODO: Structure
+* 10:00 - 10:40 - Challenge problem
+* 10:40 - 10:45 Break
+* 10:45 - 11:30 Lecture part 1
+* 11:30 - 1:00 Exercise 1
+* 1:00 - 2:00 Lunch
+* 2:00 - 2:55 Lecture part 2
+* 2:55 - 3:00 Break
+* 3:00 - 4:55 Exercise 2
+* 4:55 - 5:00  Break
+* 5:00 - 6:00 - Review 
+
+## Resources
+TODO: Add links for slides, live coding examples, helpful resources, etc.
+
 ### What is Git?
 Git is a distributed version control system for tracking changes to files. Git essentially takes snapshots of data overtime to create a history of how a project changes overtime. This history allows us to go back to previous versions of our project if needed (for example, if we add new code to a project that accidentally introduces a nasty bug, we can go back to a previous version of the project and restart from there). 
 
@@ -45,7 +68,7 @@ Complete the first 8 challenges of Try Git (up through 1.8 ‘Committing All Cha
 ### Branches
 Branches let us create different forks of our project and are commonly used when adding new features. A branch is basically a copy of our project where we can test out new changes, and eventually merge those changes into the main branch of our project when ready. Branches are great because if we end up totally breaking something on our branch we can just switch back to our main branch and pretend like it never happened.
 
-### Creating and working with branches
+#### Creating and working with branches
 * `git branch` 
 	* Shows all current branches
 	* the default git branch is called `master`
@@ -56,7 +79,7 @@ Branches let us create different forks of our project and are commonly used when
 	* Switches to the specified branch
 	*  The `HEAD` is Git’s internal way of indicating the snapshot that is currently checked out. The head typically resides at the ‘tip’ of the current development branch, but can be moved using `git checkout` 
 
-### Merging branches
+#### Merging branches
 *  `git checkout <branch-name>` 
 	* Switch back to the branch that you want to merge everything into (typically the `master` branch)
 * `git merge <branch-name>` 
@@ -64,7 +87,7 @@ Branches let us create different forks of our project and are commonly used when
 * `git branch -d <branch-name>` 
 	* Deletes old branch (use only after you’ve successfully merged)
 
-### Beware of merge conflicts
+#### Beware of merge conflicts
  When two branches diverge we may run into a merge conflict. Merge conflicts happen when there are conflicting changes on two separate branches. For example, say two people each make a branch but we both work on the same thing. When they try to merge them back in to master, git will not be sure which changes to keep and which to discard. In these cases we must manually resolve the conflicts before moving forward. 
 
 
@@ -86,3 +109,10 @@ Branches let us create different forks of our project and are commonly used when
 ### Exercise 2
 
 TODO: Add exercise 2
+
+## Review and Wrapup
+* What was easy? What was challenging?
+* What made sense? What didn’t make sense?
+
+## Further Reading
+* TODO: Add links to further reading
