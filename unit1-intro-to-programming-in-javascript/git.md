@@ -22,6 +22,39 @@ Intro To Git | git
 TODO: Add links for slides, live coding examples, helpful resources, etc.
 
 ##Lecture
+### Intro to the command line
+Before the days of graphical user interfaces and the mouse the only way to navigate around a computer was by typing in text commands. Computers have evolved a lot since then but every computer still has a terminal, which lets us type in commands to navigate around our computer and do things like create and edit files. In other words, it lets us interface with our computer without needing to use a mouse.
+
+**Discussion:** What are the advantages of using the terminal? What are the disadvantages?
+
+### Command line basics
+Using the command line is a lot like physically using a mouse to click around and open up different folders and files. Except instead of using a mouse we'll only use text commands. 
+
+To use the command line, open your computer’s terminal. You should see a prompt where you can type in text. There are certain prompts we can type in that will help us navigate around our computer and do other cool things. 
+
+Here are some of the most important command line prompts. 
+
+- `pwd`  (print working directory) shows us the current directory that we’re in
+- `cd <directory name>` (change directory) changes the current directory (directory is another name for ‘folder’) 
+	- For example, `cd downloads` would move into the downloads folder
+- `ls`  (list contents) lists all of the contents of the current directory
+- `.` (period) shortcut for the current directory
+- `..` (double period) shortcut for the current parent directory 
+- `~` (tilde) shortcut for your home directory 
+- `open <file or directory name>` opens a file or directory
+	- For example, `open file1.txt` will open up file1.txt (as long as that file is in your current directory) 
+- `mkdir <directory name>` (make directory) makes a new folder
+	- For example, `mkdir test-folder` will make a new folder called ‘test-folder’
+ - `touch <file name>` makes a new file
+	- For example, `touch newFile1.txt` would make a new file called ‘new File1.txt’ in your current directory 
+
+### Exercise
+
+Open up your terminal and start getting familiar with the command line. First use the command line to navigate to your Desktop. Then use the command line to make a new folder. `cd` into that folder and use the `touch` command to make a new txt file. Use the `ls` command to see a list of all the files in your folder and make sure you see your name file. Then try using the `open` command to open that new file.
+
+Continue using the command line to practice navigating around your computer. Be sure to try using the `.` (period) and `..` (double period) shortcuts to help your navigation. 
+
+
 ### What is Git?
 Git is a distributed version control system for tracking changes to files. Git essentially takes snapshots of data overtime to create a history of how a project changes overtime. This history allows us to go back to previous versions of our project if needed (for example, if we add new code to a project that accidentally introduces a nasty bug, we can go back to a previous version of the project and restart from there). 
 
