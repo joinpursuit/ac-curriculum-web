@@ -21,6 +21,7 @@ Intro To Git | git
 ## Resources
 TODO: Add links for slides, live coding examples, helpful resources, etc.
 
+##Lecture
 ### What is Git?
 Git is a distributed version control system for tracking changes to files. Git essentially takes snapshots of data overtime to create a history of how a project changes overtime. This history allows us to go back to previous versions of our project if needed (for example, if we add new code to a project that accidentally introduces a nasty bug, we can go back to a previous version of the project and restart from there). 
 
