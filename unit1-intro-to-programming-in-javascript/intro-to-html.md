@@ -23,7 +23,7 @@ TODO: Add links for slides, live coding examples, helpful resources, etc.
 
 ##Lecture
 ###What is HTML?
-At its simplest, a web page could just be plain text, like you would type into a text editor. However, that’s pretty boring… The true power of the web comes from being able to easily link web pages together in a structured format. 
+At its simplest a web page can just be plain text, just like you would type into a text editor. However, that’s pretty boring… The true power of the web comes from being able to easily link web pages together in a structured format. 
 
 **Discussion** What’s the importance of having a standardized structure for web pages? What types of elements (e.g. headers, paragraphs) do we see repeatedly across different web pages? 
 
