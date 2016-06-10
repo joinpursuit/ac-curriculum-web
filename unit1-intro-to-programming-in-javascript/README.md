@@ -3,7 +3,7 @@
 
 ### Week 1
 
-- Git & GitHub: 2 days
+- [Git & GitHub](https://github.com/C4Q/ac-curriculum-web/blob/master/unit1-intro-to-programming-in-javascript/git.md): 2 days
   - Basic Command Line navigation: `cd`, `ls`, `.`, `..`, `~`, `pwd`, `mkdir`, `touch`, `open`
   - Command Line Git: `clone`, `commit`, `pull`, `push`
   - Branching and merging
