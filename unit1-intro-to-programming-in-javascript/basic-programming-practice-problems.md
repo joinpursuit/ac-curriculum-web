@@ -5,7 +5,7 @@
 
 Write a function that takes as input an array, and returns the largest difference between any two adjacent elements.
 
-```
+```js
 // Example input: [4, 8, 11, 5, 9, 12]
 // Returns: 6 (difference between 5 and 11)
 
@@ -18,7 +18,7 @@ Write a function that takes as input an array, and returns the largest differenc
 
 Write a function that takes as input an array, and returns the largest difference between any two elements.
 
-```
+```js
 // Example input: [4, 8, 11, 5, 9, 12]
 // Returns: 8 (difference between 12 and 4)
 
@@ -31,7 +31,7 @@ Write a function that takes as input an array, and returns the largest differenc
 
 If you want to practice understanding how programs execute, do NOT copy paste this into repl.it. Instead, run through it in your head!
 
-```
+```js
 var MysteryFunction = function(input) {
   if (input.length > 2 && input[0] < 2) {
     input[1] = 3
@@ -68,7 +68,7 @@ console.log(MysteryFunction([]))
 
 Write a function that takes in an integer and returns an array of that size filled with the Fibonacci sequence. Hint: use push() to build up an array item by item. Fibonacci numbers can be created from adding the two preceding numbers.
 
-```
+```js
 // Example call:
 CreateFibArray(4)
 // Returns: [1, 1, 2, 3]
