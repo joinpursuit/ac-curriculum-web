@@ -45,7 +45,7 @@ var addMyFavoritePizza = function(newPizzaPlace) {
   console.log("I have " + favoritePizzaPlaces.length + " favorite pizza places")
 }
 
-addMyFavoritePizza1("Benno's")
+addMyFavoritePizza("Benno's")
 ```
 
 #### 4
