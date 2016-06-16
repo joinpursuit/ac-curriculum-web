@@ -51,6 +51,25 @@ addMyFavoritePizza("Benno's")
 #### 4
 
 ```js
+var favoritePizzaPlaces = ["Lombardi's", "Ray's", "Joe's", "John's", "Paulie Gee's"]
+
+var addMyFavoritePizza = function(newPizzaPlace) {
+  var favoritePizzaPlaces = ["Dave & Jukay's", "Sunnyside"]
+
+  var addThePlace = function(newPizzaPlace) {
+    favoritePizzaPlaces.push(newPizzaPlace)
+  }
+
+  addThePlace(newPizzaPlace)
+  console.log("I have " + favoritePizzaPlaces.length + " favorite pizza places")
+}
+
+addMyFavoritePizza("Benno's")
+```
+
+#### 5
+
+```js
 x = 1;
 var a = 5;
 var b = 10;
