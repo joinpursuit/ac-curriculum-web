@@ -1,13 +1,11 @@
 # Variable Scope Exercises
 
 
-## Variable Scope
-
-What is logged in each of these code blocks (answer it **without** actually running the code on a computer).
+What is logged in each of these code blocks?  Answer it **without** actually running the code on a computer.
 
 #### 1
 
-```
+```js
 (function() {
    baz = 5;
    var bar = 10;
@@ -19,7 +17,7 @@ console.log(bar);
 
 #### 2
 
-```
+```js
 var x = 11
 y = 66
 (function() {
