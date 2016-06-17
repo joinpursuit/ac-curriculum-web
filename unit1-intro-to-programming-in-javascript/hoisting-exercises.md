@@ -23,3 +23,38 @@ console.log("Test: " + test)
 
 #### 2
 
+```js
+var test = "initial value"
+var f = function () {
+    test = "new value"
+
+    if (test) {
+        test += " and more!"
+    } else {
+        test = "It begins here"
+    }
+}
+f()
+console.log("Test: " + test)
+```
+
+
+#### 3
+
+var test = "initial value"
+for (var i = 0; i < 5; i++) {
+    test = "new value"
+
+    if (test) {
+        
+        test += " and more!"
+    } else {
+        var test = "It begins here"
+    }
+}
+
+console.log("Test: " + test)
+
+
+#### 4
+
