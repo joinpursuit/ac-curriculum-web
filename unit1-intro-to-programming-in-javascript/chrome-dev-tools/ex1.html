@@ -17,13 +17,13 @@
       b.addEventListener("click", funct);
 
       function funct() {
-        var x = parseInt(document.getElementById("input").value);
+        var x = document.getElementById("input").value;
         var pattern = /^\d+$/;
         var checkIfNumber = pattern.test(x);
         if (!checkIfNumber) {
           alert("insert numbers only");
         } else {
-          var out = document.getElementById("output").innerHTML = funct2(x);;
+          var out = document.getElementById("output").innerHTML = funct2(parseInt(x));
         }
 
         function funct2(num) {
