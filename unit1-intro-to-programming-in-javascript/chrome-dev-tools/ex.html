@@ -1,0 +1,44 @@
+<HTML>
+  <HEAD></HEAD>
+  <BODY>
+    <center>
+      <h2>Chrome DevTools Ex 1</h2>
+      <p>Insert a number below. Follow the javaScript execution with DevTools. </p>
+      <input id="input">
+      <button id="button">click here</button>
+      <div>
+        <h2>Mystery output</h2>
+      </div>
+      <div id="output"></div>
+    </center>
+
+    <script>
+      var b = document.getElementById("button");
+      b.addEventListener("click", funct);
+
+      function funct() {
+        var x = parseInt(document.getElementById("input").value);
+        var pattern = /^\d+$/;
+        var checkIfNumber = pattern.test(x);
+        if (!checkIfNumber) {
+          alert("insert numbers only");
+        } else {
+          var out = document.getElementById("output").innerHTML = funct2(x);;
+        }
+
+        function funct2(num) {
+          counter = 5;
+          var followMe = num;
+
+          for (var i = 0; i < counter; i++) {
+            num += num + 1;
+            followMe += num % 3;
+          }
+
+          return num;
+        }
+      }
+    </script>
+
+  </BODY>
+</HTML>
