@@ -151,13 +151,12 @@ TODO: Add exercise 2
 ## Further Reading
 * TODO: Add links to further reading
 
-<ul>
-	<li>Author:<p class="author">Alex</p></li>
-	<li>Language:<p class="language">JavaScript</p></li>
-	<li>Topics:<p class="topics">for-loop, continue</p></li>
-	<li>Difficulty:<p class="difficulty">4</p></li>
-	<li>Topics:<p class="format">coding</p></li>
-</ul>
+
+Author:<p class="author">Alex</p>
+Language:<p class="language">JavaScript</p>
+Topics:<p class="topics">for-loop, continue</p>
+Difficulty:<p class="difficulty">4</p>
+Topics:<p class="format">coding</p>
 
 <h3 class='question-header'>Question</h3>
 <p class='question-text'>Write a `for` loop that counts down from 100 to 10 by 10, and then from 10 to 1 by 1.  The loop should print a single number on each line.  Use a single loop; do not use multiple loops.</p>
