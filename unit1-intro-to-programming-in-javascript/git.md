@@ -152,7 +152,7 @@ TODO: Add exercise 2
 * TODO: Add links to further reading
 
 
-Author:<p class="author">Alex</p>
+<label>Author:</label><p class="author">Alex</p>
 Language:<p class="language">JavaScript</p>
 Topics:<p class="topics">for-loop, continue</p>
 Difficulty:<p class="difficulty">4</p>
