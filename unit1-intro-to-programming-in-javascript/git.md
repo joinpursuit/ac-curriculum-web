@@ -152,3 +152,8 @@ TODO: Add exercise 2
 * TODO: Add links to further reading
 
 <p class="test">This is a test paragraph tag</p>
+<h3 class="another-test">This is a test header</h3>
+<ul>
+	<li>Hey</li>
+	<li>Hello</li>
+</ul>
