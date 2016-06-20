@@ -1,8 +1,9 @@
-<p>Author: <span class="author">Alex</span></p>
-<label>Language:</label><p class="language">JavaScript</p>
-<label>Topics:</label><p class="topics">for-loop, continue</p>
-<label>Difficulty:</label><p class="difficulty">4</p>
-<label>Topics:</label><p class="format">coding</p>
+<p><em>Author:</em> <span class="author">Alex</span></p>
+<p>Language: <span class="language">JavaScript</span></p>
+<p>Topics: <span class="author">for-loop, continue</span></p>
+<p>Difficulty: <span class="author">4</span></p>
+<p>Format: <span class="author">coding</span></p>
+
 
 <h3 class='question-header'>Question</h3>
 <p class='question-text'>Write a `for` loop that counts down from 100 to 10 by 10, and then from 10 to 1 by 1.  The loop should print a single number on each line.  Use a single loop; do not use multiple loops.</p>
