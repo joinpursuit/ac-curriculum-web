@@ -152,18 +152,18 @@ TODO: Add exercise 2
 * TODO: Add links to further reading
 
 <ul>
-	<li><label>Author:</label><p class="author">Alex</p></li>
-	<li><label>Language:</label><p class="language">JavaScript</p></li>
-	<li><label>Topics:</label><p class="topics">for-loop, continue</p></li>
-	<li><label>Difficulty:</label><p class="difficulty">4</p></li>
-	<li><label>Topics:</label><p class="format">coding</p></li>
+	<li>Author:<p class="author">Alex</p></li>
+	<li>Language:<p class="language">JavaScript</p></li>
+	<li>Topics:<p class="topics">for-loop, continue</p></li>
+	<li>Difficulty:<p class="difficulty">4</p></li>
+	<li>Topics:<p class="format">coding</p></li>
 </ul>
 
 <h3 class='question-header'>Question</h3>
 <p class='question-text'>Write a `for` loop that counts down from 100 to 10 by 10, and then from 10 to 1 by 1.  The loop should print a single number on each line.  Use a single loop; do not use multiple loops.</p>
 
 <h3 class='answer-header'>Answer</h3>
-<script class='answer-text' type="text/javascript">
+<code class='answer-text' type="text/javascript">
 	for(var i = 100; i >= 1; i -= 1) {
 		if(i > 10 && i % 10 === 0) {
 			console.log(i)
@@ -171,4 +171,4 @@ TODO: Add exercise 2
 			console.log(i)
 		}
 	}
-</script>
+</code>
