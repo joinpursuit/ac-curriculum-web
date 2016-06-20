@@ -1,7 +1,4 @@
-
-
-
-<label>Author:</label><p class="author">Alex</p>
+<p>Author: <span class="author">Alex</span></p>
 <label>Language:</label><p class="language">JavaScript</p>
 <label>Topics:</label><p class="topics">for-loop, continue</p>
 <label>Difficulty:</label><p class="difficulty">4</p>
