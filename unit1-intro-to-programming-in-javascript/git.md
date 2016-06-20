@@ -1,8 +1,8 @@
-<p><em>Author:</em> <span class="author">Alex</span></p>
-<p>Language: <span class="language">JavaScript</span></p>
-<p>Topics: <span class="author">for-loop, continue</span></p>
-<p>Difficulty: <span class="author">4</span></p>
-<p>Format: <span class="author">coding</span></p>
+<p><b>Author:</b> <span class="author">Alex</span></p>
+<p><b>Language:</b> <span class="language">JavaScript</span></p>
+<p><b>Topics:</b> <span class="author">for-loop, continue</span></p>
+<p><b>Difficulty:</b> <span class="author">4</span></p>
+<p><b>Format:</b> <span class="author">coding</span></p>
 
 
 <h3 class='question-header'>Question</h3>
