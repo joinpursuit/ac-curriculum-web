@@ -26,9 +26,14 @@ window.onload = function() {
     // Evaluating who won
     var winner = whoWon(userChoiceString, computerChoiceString);
 
-    document.getElementById("winner").innerText = "You chose " + userChoiceString + "\n" +
-                 			"Computer chose " + computerChoiceString + "\n" +
-                 			"The winner is: " + winner;
+    outputText = "You chose " + userChoiceString + "\n" +
+                 "Computer chose " + computerChoiceString + "\n" +
+                 "The winner is: " + winner;
+
+
+
+    document.getElementById("winner").innerText = outputText;
+
 
   });
 
