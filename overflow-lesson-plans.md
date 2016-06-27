@@ -27,3 +27,4 @@
   - Breakpoints and stepping through code
   - Parsing call stack and watched variables
   - **Learning outcome**: Given a broken JavaScript program in a js file, use the Chrome Developer tools to identify where the bug is, and how to fix it
+
