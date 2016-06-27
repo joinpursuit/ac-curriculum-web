@@ -2,6 +2,10 @@
 
 ### Week 1
 
+- Unit 1 Assessment review: 1 day
+  - Give assessment back to students
+  - Go over solutions to ever problem as a class
+  - Go through other examples of the most-failed problems
 - Package / Dependency Management with NPM: 1 day
   - Why we use it
   - How to find packages online and read their documentation
@@ -19,6 +23,10 @@
   - How to leverage multiple packages (either from NPM or self created) to write maintainable code
   - **Learning outcome**: Take the tic-tac-toe implementation from the previous unit and refactor into smaller modules in multiple files. The new modules should be self contained, reusable and extensible.
   - **Learning outcome**: Ability to, as a group, break apart a sizable webpage into smaller modules and distribute work among the team through individual modules. Collaboration is done through GitHub and Gulp is used for building js files.
+
+
+### Week 2
+
 - Objects / HashTables: 1 day
   - Syntax for JS objects
   - Common uses for key-value mappings
@@ -28,23 +36,13 @@
   - **Learning outcome**: Write a JavaScript function that takes an input an array and returns a new array with only the unique elements from the input. This should be O(n) time and preserve the order of the input array
   - **Learning outcome**: Create a vehicle lookup implementation that lets users lookup vehicles by name and display the different features of the vehicle on the page.
   - **Learning outcome**: Able to implement hashtable in JS (we will provide an "array" object and a "linked list" object with the appropriate methods)
-
-
-### Week 2
-
-- Scope & Closures: 2 day
-  - Hoisting
-  - Investigating the scope chain, the true power of the `var` keyword
-  - What are closures and how/when/why to create them
-  - **Learning outcome**: Be able to answer common "what does this code output" tricky JS questions involving hoisting, scope. Examples can be seen here: https://www.sitepoint.com/5-typical-javascript-interview-exercises/ 
-  - **Learning outcome**: Solve tricky problems involving closures, [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/closure-challenges.md)
 - Prototypes, the prototype chain, and inheritance: 2 days
   - constructor vs `Object.create()`
   - creating base classes and extending them via inheritance
   - OOP, Prototypical OOP VS traditional class-based OOP, non-JS OOP (Interfaces, Abstract Classes)
   - **Learning outcome**: Be able to discuss OOP interview questions (how to design games like chess, model animal species, etc.) and understand how to discuss the talking points for non-JS OOP
   - **Learning outcome**: Design and implement classes in JS, create instances manually and dynamically, and utilize protypical inheritance to augment existing classes on the fly. [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/oo-challenges.md)
-- APIs via AJAX and JSON: 2 days (carries into Week 3)
+- APIs via AJAX and JSON: 2 days
   - What is AJAX?
   - jQuery's AJAX methods (ajax, get, post) & under-the-hood JavaScript's pure AJAX methods (only for educational reasons)
   - Handling success and failures with callbacks
@@ -57,6 +55,15 @@
 
 ### Week 3
 
+- Promises: 1 day
+  - TODO @nmadd fill this out
+- Nested Loops and 2D Arrays: 1 days
+  - Interacting with 2D matrices: indexing, searching, building
+  - Scanning 2D matrices in different orders
+  - Initializing the inner loop using values from the outer loop
+  - **Learning outcome**: Return the unique elements of an input array in O(n<sup>2</sup>) time
+  - **Learning outcome**: Find the difference between the diagonals of a square matrix in O(n) time
+  - **Learning outcome**: Using Agile processes, create a tic-tac-toe implementation that allows two players to play the game on a board by clicking on elements with correct win and lose conditions as well as restart buttons and local state keeping track of wins/losses
 - Introduction to ReactJS: 2 days
   - React lifecycle methods: `render()`, `componentDidMount()`, `componentWillRecieveProps()`, `componentDidUpdate()`, etc
   - JSX and the benefits of writing HTML markup in javascript
@@ -65,10 +72,6 @@
     - classes, extend keyword, arrow functions, spread operator, promises
   - **Learning outcome**: Create simple To Do list using ReactJS
   - **Learning outcome**: Understand the difference between state and prop
-- Redux: 1 day
-  - Principles of redux: minimize state mutations, single source of truth, functional programming
-  - Actions, Reducers, Stores, etc
-  - **Learning outcome**: Build a Trello API based blog using ReactJS and Redux
 - Queues & Stacks: 1 day
   - Queues: First in, First out. Waiting in line, scheduling systems
   - Stacks: First in, Last out. Stack of plates, books, browser back button, function call stack
@@ -77,7 +80,11 @@
 
 ### Week 4
 
-- Major React Project using D3.js: 2 days
+- Redux: 1 day
+  - Principles of redux: minimize state mutations, single source of truth, functional programming
+  - Actions, Reducers, Stores, etc
+  - **Learning outcome**: Build a Trello API based blog using ReactJS and Redux
+- Major React Project using D3.js: 1 day
   - Data fetched via AJAX from an API provided by us
   - Controls on the page to select different views of the data
   - Page has multiple graphs that be controlled independently and a graph who's behavior is dependent on the state (content and selection) of other graphs on the page

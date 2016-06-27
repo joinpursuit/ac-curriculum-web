@@ -3,12 +3,16 @@
 
 ### Week 1
 
+- Unit 4 Assessment review: 1 day
+  - Give assessment back to students
+  - Go over solutions to ever problem as a class
+  - Go through other examples of the most-failed problems
 - Responsive CSS Design: 1 Day
   - Building UIs that look good at all screen sizes
   - Designing a mobile-friendly UI
   - Using Chrome Developer Tools
   - **Learning outcome**: Able to implement a responsive web page given a set of wireframes
-- Professional Full Stack Web Application: 4 Days
+- Professional Full Stack Web Application: 3 Days
   - Example project idea: A social network (Twitter clone)
   - Data stored in SQL or Mongo
   - Business and security logic in server-side MVC
@@ -23,7 +27,9 @@
 
 ### Week 2
 
-- Professional Full Stack Web Application: 5 Days
+- Socket.io: 1 Day
+  - TODO @nmadd
+- Professional Full Stack Web Application: 4 Days
   - Example project idea: CRM
   - Data stored in SQL or Mongo
   - Business and security logic in server-side MVC
@@ -31,6 +37,7 @@
     - Data changes trigger updates for different users
     - Integrations with various external APIs
     - Seeded data for testing
+    - Use Socket.io
     - Remote CI integration (Travis, Circle, or other)
   - Simple UX
   - **Learning outcome**: Practice building applications at all levels of the stack
@@ -48,6 +55,7 @@
   - Add new external API integrations (Email, Twilio, APNS, etc.)
   - Creating an API for other developers to leverage
   - Add testing for all new features, and ensure regression testing keeps previous features running
+  - Good opportunity for a Hackathon
   - **Learning outcome**: Experience joining someone else's existing project and adding features to it
   - **Learning outcome**: Experience with major code changes of a continuously integrated application
 - Data structures and algorithms practice: 2 days

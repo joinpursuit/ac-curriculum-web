@@ -2,6 +2,10 @@
 
 ### Week 1
 
+- Unit 2 Assessment review: 1 day
+  - Give assessment back to students
+  - Go over solutions to ever problem as a class
+  - Go through other examples of the most-failed problems
 - Serverside MVC with Express: 3 days
   - Why MVC for server side development: Separation of concerns
   - Routing & (simple) regular expressions
@@ -10,7 +14,7 @@
   - Middleware for session, error handling
   - **Learning outcome**: Given a small existing website, add new URLs, add content to existing URLs, create a new URL with a new controller that reuses an existing view
   - **Learning outcome**: Create a website with over 4 unique URL routes with both HTML and JSON responses, user state stored in sessions, and an interactive set of client pages using AJAX to hit at least one JSON endpoint
-- Recursion: 2 days
+- Recursion: 2 days (Carries over into the next week)
  - Recursive mult, fibonnaci, sum
  - Translating iterative functions into recursive ones, and vice versa
  - **Learning outcome**: Read and write recursive implementations of math and other common functions
@@ -40,7 +44,7 @@
   - Examples of ORMs, incl nano, micro, and full size ORMs
   - **Learning outcome**: Build a user login system in Express using PostgreSQL
   - **Learning outcome**: Be able to translate SQL queries to ORM and vice versa, and be able to write ORM classes in code given a schema
-- Recursion and BFS/DFS: 3 days
+- Recursion and BFS/DFS: 2 days
   - Common problems that map to BFS: Find the shortest path to a node, find if two nodes are connected at all
   - Common problems that map to DFS: Find the value of the largest ancestor,
   - Understanding the call stack and being able to step through recursive implementations to understand current state
