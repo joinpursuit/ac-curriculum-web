@@ -14,8 +14,6 @@
     - Homebrew
     - iTerm
     - Github account
-    - Node? 
-    - Github GUI?
   - Intro to Github?
   - How to Google
     - Tips for effectively finding answers to common problems 
@@ -24,18 +22,13 @@
   - Pair programming
     - Understand and explain the purpose of pairing
     - Apply simple pairing patterns like Driver/Navigator and ping-pong
-    - Verbally establish a productive pairing arrangement
-    - Give specific, actionable, and kind feedback to pairing partner
     - Shamelessly copied from [Turing.io](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown)
     - **Learning outcome**: Ready and able to participate in daily pairing sessions baked into all future lesson plans
 
 - **JavaScript Fundamentals: Workshop Review** (1 day)
   - Variables
   - Control structures, conditionals, and loops
-    - if...else
-    - for
-    - while
-    - switch
+    - if...else, for, while, switch
   - Arrays
   - Functions
    - **Learning outcome**: Be able to confidently answer all wkshp assessment questions (ex: find second largest element in an input array)
