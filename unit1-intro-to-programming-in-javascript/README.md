@@ -3,19 +3,19 @@
 
 ### Week 1
 
-- Intro to Access Code : 1 day
+- **Intro to Access Code**  (1 day)
   - Program intro
   - Icebreakers
     - Quick group introctions 
     - [Marshmallow challenge] (http://www.tomwujec.com/design-projects/marshmallow-challenge/)
   - Growth mindset / trusting the process 
   - Installfest
-   - Sublime Text (basic tour, tips, and tricks)
-   - Homebrew
-   - iTerm
-   - Github account
-   - Node? 
-   - Github GUI?
+    - Sublime Text (basic tour, tips, and tricks)
+    - Homebrew
+    - iTerm
+    - Github account
+    - Node? 
+    - Github GUI?
   - Intro to Github?
   - How to Google
     - Tips for effectively finding answers to common problems 
@@ -29,7 +29,7 @@
     - Shamelessly copied from [Turing.io](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown)
     - **Learning outcome**: Ready and able to participate in daily pairing sessions baked into all future lesson plans
 
-- JavaScript Fundamentals - Workshop Review : 1 day
+- **JavaScript Fundamentals: Workshop Review** (1 day)
   - Variables
   - Control structures, conditionals, and loops
     - if...else
@@ -40,16 +40,16 @@
   - Functions
    - **Learning outcome**: Be able to confidently answer all wkshp assessment questions (ex: find second largest element in an input array)
 
-- JavaScript Fundamentals - Types, Strings, and Numbers: 1 day
+- **JavaScript Fundamentals: Types, Strings, and Numbers** (1 day)
   - Intro to different JavaScript types
   - Strings: concat, substrings, iterating, searching, indexing
   - Numbers: basic math, modulo, parsing strings to ints
 
-- JavaScript Fundamentals - Arrays Deep Dive : 1 day
+- **JavaScript Fundamentals: Arrays Deep Dive** (1 day)
   - Common array methods, properties
   - How arrays work 
 
-- Intro to HTML & CSS Part 1: 1 day 
+- **Intro to HTML & CSS: Part 1** (1 day)
   - What is HTML? Why do we use it?
   - Intro to tags: head, body, a, div, p, h1+, img, span, button, li
   - Loading an HTML file in your browser
@@ -60,7 +60,7 @@
 
 ### Week 2
 
-- JavaScript Fundamentals - Functions Deep Dive : 1 day
+- **JavaScript Fundamentals: Functions Deep Dive** (1 day)
   - Why functions? Intro to reusability 
   - Deeper dive into functions: anonymous inline definitions
   - Inspecting functions using Chrome developer tools:
@@ -68,11 +68,11 @@
     - Stepping through code
     - Function call stack
 
-- JavaScript Fundamentals - Intro to Objects : 1 day
+- **JavaScript Fundamentals: Intro to Objects** (1 day)
   - What are objects and why we use them
   - Basic object syntax
  
-- Intro to HTML & CSS Part 2: 1 day
+- **Intro to HTML & CSS: Part 2** (1 day)
  - Attributes: class, name
  - More tags: script, link, style
  - Common CSS Properties: margin, padding, position, color, font-size, bg-color, etc.
@@ -80,12 +80,12 @@
  - Chrome Developer Tools: Inspector, CSS live editing
  - **Learning outcome**: Build a simple personal site with multiple pages and non-trivial layout
 
-- Review / work on project : 1 day
+- **Review / work on project** (1 day)
   - Exercises covering concepts from first two weeks
   - Small group project reinforcing concepts
   - More Chrome Dev tools
 
-- Assessment : 1 day
+- **Assessment** (1 day)
   
 
 ### Week 3
