@@ -13,10 +13,11 @@
    - Sublime Text (basic tour, tips, and tricks)
    - Homebrew
    - iTerm
+   - Github account
    - Node? 
    - Github GUI?
   - Intro to Github?
-  - Googling for coders
+  - How to Google
     - Tips for effectively finding answers to common problems 
     - Differentiating between good and bad resources
     - How to read and contribute to StackOverflow
@@ -27,7 +28,6 @@
     - Give specific, actionable, and kind feedback to pairing partner
     - Shamelessly copied from [Turing.io](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown)
     - **Learning outcome**: Ready and able to participate in daily pairing sessions baked into all future lesson plans
-
 
 - JavaScript Fundamentals - Workshop Review : 1 day
   - Variables
@@ -40,10 +40,10 @@
   - Functions
    - **Learning outcome**: Be able to confidently answer all wkshp assessment questions (ex: find second largest element in an input array)
 
-- JavaScript Fundamentals - Types, Strings, and Integers: 1 day
+- JavaScript Fundamentals - Types, Strings, and Numbers: 1 day
   - Intro to different JavaScript types
   - Strings: concat, substrings, iterating, searching, indexing
-  - Integers: basic math, modulo, parsing strings to ints
+  - Numbers: basic math, modulo, parsing strings to ints
 
 - JavaScript Fundamentals - Arrays Deep Dive : 1 day
   - Common array methods, properties
@@ -58,19 +58,19 @@
   - **Learning outcome**: Able to use the Chrome developer tool to inspect webpage structure
 
 
-
 ### Week 2
 
-- JavaScript Fundamentals - Functions deep dive
+- JavaScript Fundamentals - Functions Deep Dive : 1 day
   - Why functions? Intro to reusability 
   - Deeper dive into functions: anonymous inline definitions
   - Inspecting functions using Chrome developer tools:
-    - Breakpoints and stepping through code
-    - Parsing call stack and watched variables
+    - Breakpoints / debugger 
+    - Stepping through code
+    - Function call stack
 
-- JavaScript Fundamentals - Intro to Objects
-  - Basic object syntax
+- JavaScript Fundamentals - Intro to Objects : 1 day
   - What are objects and why we use them
+  - Basic object syntax
  
 - Intro to HTML & CSS Part 2: 1 day
  - Attributes: class, name
@@ -81,7 +81,9 @@
  - **Learning outcome**: Build a simple personal site with multiple pages and non-trivial layout
 
 - Review / work on project : 1 day
- - More Chrome Dev tools
+  - Exercises covering concepts from first two weeks
+  - Small group project reinforcing concepts
+  - More Chrome Dev tools
 
 - Assessment : 1 day
   
