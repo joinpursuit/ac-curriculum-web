@@ -3,55 +3,88 @@
 
 ### Week 1
 
-- [Git & GitHub](https://github.com/C4Q/ac-curriculum-web/blob/master/unit1-intro-to-programming-in-javascript/git.md): 2 days
-  - Basic Command Line navigation: `cd`, `ls`, `.`, `..`, `~`, `pwd`, `mkdir`, `touch`, `open`
-  - Command Line Git: `clone`, `commit`, `pull`, `push`
-  - Branching and merging
-  - GitHub pull request UX, how to converse on a PR
-  - **Learning outcome**: Put simple personal site on GitHub, push to GitHub pages using GitBot.co
-  - **Learning outcome**: Can talk shop about PRs, commits, branches, and sound informed in an interview setting
-- Pair programming: 1 day
-  - Understand and explain the purpose of pairing
-  - Apply simple pairing patterns like Driver/Navigator and ping-pong
-  - Verbally establish a productive pairing arrangement
-  - Give specific, actionable, and kind feedback to pairing partner
-  - Shamelessly copied from [Turing.io](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown)
-  - **Learning outcome**: Ready and able to participate in daily pairing sessions baked into all future lesson plans
-- HTTP & HTML & CSS: 3 days (carries over to next week)
-  - What HTTP is, headers, content, envelope metaphor
-  - Tags: head, body, style, script, link, a, div, p, h1+, img, span, etc.
-  - Attributes: class, name
-  - Common CSS Properties: margin, padding, position, color, font-size, bg-color, etc.
-  - CSS selectors
-  - CSS Layouts crash course: display flex, flex-direction, align-items, justify-content, etc
-  - External libraries and stylesheets (bootstrap)
-  - Chrome Developer Tools: Inspector, HTML and CSS live editing
-  - **Learning outcome**: Build a simple personal site with multiple pages and non-trivial layout
-  - **Learning outcome**: Able to use the Chrome developer tool to inspect and edit webpage style
+- Intro to Access Code : 1 day
+  - Program intro
+  - Icebreakers
+    - Quick group introctions 
+    - [Marshmallow challenge] (http://www.tomwujec.com/design-projects/marshmallow-challenge/)
+  - Growth mindset / trusting the process 
+  - Installfest
+   - Sublime Text (basic tour, tips, and tricks)
+   - Homebrew
+   - iTerm
+   - Node? 
+   - Github GUI?
+  - Intro to Github?
+  - Googling for coders
+    - Tips for effectively finding answers to common problems 
+    - Differentiating between good and bad resources
+    - How to read and contribute to StackOverflow
+  - Pair programming
+    - Understand and explain the purpose of pairing
+    - Apply simple pairing patterns like Driver/Navigator and ping-pong
+    - Verbally establish a productive pairing arrangement
+    - Give specific, actionable, and kind feedback to pairing partner
+    - Shamelessly copied from [Turing.io](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/pairing_patterns.markdown)
+    - **Learning outcome**: Ready and able to participate in daily pairing sessions baked into all future lesson plans
+
+
+- JavaScript Fundamentals - Workshop Review : 1 day
+  - Variables
+  - Control structures, conditionals, and loops
+    - if...else
+    - for
+    - while
+    - switch
+  - Arrays
+  - Functions
+   - **Learning outcome**: Be able to confidently answer all wkshp assessment questions (ex: find second largest element in an input array)
+
+- JavaScript Fundamentals - Types, Strings, and Integers: 1 day
+  - Intro to different JavaScript types
+  - Strings: concat, substrings, iterating, searching, indexing
+  - Integers: basic math, modulo, parsing strings to ints
+
+- JavaScript Fundamentals - Arrays Deep Dive : 1 day
+  - Common array methods, properties
+  - How arrays work 
+
+- Intro to HTML & CSS Part 1: 1 day 
+  - What is HTML? Why do we use it?
+  - Intro to tags: head, body, a, div, p, h1+, img, span, button, li
+  - Loading an HTML file in your browser
+  - Inspecting HTML using Chrome developer tools
+  - **Learning outcome**: Able to build HTML page with basic text and links
+  - **Learning outcome**: Able to use the Chrome developer tool to inspect webpage structure
+
 
 
 ### Week 2
 
-- Basic programming concepts (Review from wkshp): 1 day
-  - What is a program, what is an algorithm?
-  - Variables, control structures, loops, conditionals
-  - Strings: concat, substrings, iterating, searching, indexing
-  - Integers: basic math, modulo, parsing strings to ints
-  - Arrays: common methods, properties
+- JavaScript Fundamentals - Functions deep dive
+  - Why functions? Intro to reusability 
   - Deeper dive into functions: anonymous inline definitions
-  - **Learning outcome**: Be able to confidently answer all wkshp assessment questions (ex: find second largest element in an input array)
-- Scope & Closures: 2 day
-  - Hoisting
-  - Investigating the scope chain, the true power of the `var` keyword
-  - What are closures and how/when/why to create them
-  - **Learning outcome**: Be able to answer common "what does this code output" tricky JS questions involving hoisting, scope. Examples can be seen here: https://www.sitepoint.com/5-typical-javascript-interview-exercises/ 
-  - **Learning outcome**: Solve tricky problems involving closures, [Examples here](https://github.com/C4Q/ac-curriculum-web/tree/master/unit2-apis-and-advanced-javascript/closure-challenges.md)
-- Debugging using Chrome developer tools: 1 day
-  - Breakpoints and stepping through code
-  - Parsing call stack and watched variables
-  - Reading StackOverflow answers, coming up with good Google searches, identifying good/bad results
-  - **Learning outcome**: Given a broken JavaScript program in a js file, use the Chrome Developer tools to identify where the bug is, and how to fix it
+  - Inspecting functions using Chrome developer tools:
+    - Breakpoints and stepping through code
+    - Parsing call stack and watched variables
 
+- JavaScript Fundamentals - Intro to Objects
+  - Basic object syntax
+  - What are objects and why we use them
+ 
+- Intro to HTML & CSS Part 2: 1 day
+ - Attributes: class, name
+ - More tags: script, link, style
+ - Common CSS Properties: margin, padding, position, color, font-size, bg-color, etc.
+ - CSS selectors: element, class, id, nested elements
+ - Chrome Developer Tools: Inspector, CSS live editing
+ - **Learning outcome**: Build a simple personal site with multiple pages and non-trivial layout
+
+- Review / work on project : 1 day
+ - More Chrome Dev tools
+
+- Assessment : 1 day
+  
 
 ### Week 3
 
